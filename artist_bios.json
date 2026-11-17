@@ -2030,5 +2030,241 @@
   "pdqb": {
     "name": "pdqb",
     "bio": "pdqb — продюсер Саша Дорнхёфер. Выпустил Maximalism на лейбле Synaptic Cliffs, с ремиксами DJ Sotofett."
+  },
+  "peakybeats": {
+    "name": "Peaky Beats",
+    "bio": "Peaky Beats — диджей и продюсер из Лидса, ведёт одноимённый лейбл. В 2022 году выпустил Paradise Falls EP на лейбле Lobster Theremin."
+  },
+  "perc": {
+    "name": "Perc",
+    "bio": "Perc — лондонский диджей и продюсер Алистер «Али» Уэллс. В 2004 году основал лейбл Perc Trax, пластинка Wave Cannon вышла на Void+1."
+  },
+  "phproject": {
+    "name": "pH Project",
+    "bio": "pH Project — нидерландский дуэт продюсеров Пелле (Pelle Loopik) и Herra. Пластинка Obvitrip вышла на лейбле Exarde, с ремиксом Levat."
+  },
+  "phaedrus": {
+    "name": "Phaedrus",
+    "bio": "Phaedrus — нидерландский диджей и продюсер Йорис Камма, живёт в Сиэтле. В 2018 году выпустил Game Of Tones на лейбле Medical Records."
+  },
+  "phalcon": {
+    "name": "Phalcon",
+    "bio": "Phalcon — техно-продюсер Айтор Фалькон. Пластинка Aerial EP вышла на лейбле SK_Eleven, предыдущий материал Hidden Archives он записал в Берлине."
+  },
+  "phaseomatic": {
+    "name": "Phase O'Matic",
+    "bio": "Phase O'Matic — диджей и продюсер Жюль фон Даникен из Лондона. Альбом The Weapon вышел на лейбле Exarde."
+  },
+  "philberg": {
+    "name": "Phil Berg",
+    "bio": "Phil Berg — техно-диджей и продюсер Филипп Бюссельберг из Берлина. Пластинка ISO вышла на лейбле SK_Eleven."
+  },
+  "pierce": {
+    "name": "Pierce",
+    "bio": "Pierce — техно-продюсер Никуша Чавчавадзе из Тбилиси. Вместе с Franco Rossi выпустил сплит на лейбле Clergy."
+  },
+  "pig": {
+    "name": "Pig & Dan",
+    "bio": "Pig & Dan — продюсерский дуэт Игора Чкотуа и Дэна Дункана, работает на Мальорке. Они основали лейблы Onolog и Elevate, пластинки выходили в том числе на Cocoon Recordings."
+  },
+  "piskapower": {
+    "name": "Piska Power",
+    "bio": "Piska Power — берлинский продюсер Штефан Юнге. Пластинка Hazardous Marine Creatures вышла на лейбле Diffuse Reality."
+  },
+  "plural": {
+    "name": "Plural",
+    "bio": "Plural — американский диджей и продюсер Джеймс Джонсон-младший. Вместе с Hakim Murphy выпустил сплит на лейбле Another Earth."
+  },
+  "plusculaar": {
+    "name": "Plusculaar",
+    "bio": "Plusculaar — румынский диджей и продюсер Александру Плюскулар, родился в Бухаресте. В 2014 году основал лейбл Binaural Arts, пластинка The Feed EP вышла на Memoria."
+  },
+  "polychain": {
+    "name": "Poly Chain",
+    "bio": "Poly Chain — проект Саши Закревской, родилась в Киеве в 1993 году. Пластинка SMART-155 вышла на лейбле Mechatronica."
+  },
+  "polygonia": {
+    "name": "Polygonia",
+    "bio": "Polygonia — музыкальный проект Линдси Ванг из Мюнхена. Вместе с MTRL выпустила Division / Taris на лейбле Fur:ther Sessions."
+  },
+  "posthuman": {
+    "name": "Posthuman",
+    "bio": "Posthuman — дуэт двоюродных братьев Ричарда Бевана и Джошу Доэрти, они живут в восточном Лондоне и Глазго. В начале 2000-х основали лейбл Seed Records, вместе с Queer On Acid и Hardton вышли на серии Acid Avengers."
+  },
+  "premiesku": {
+    "name": "Premiesku",
+    "bio": "Premiesku — бухарестское трио Силвиу Санду, Роберт Прекуп и Джордже Гаванеску, раньше выступали как Monochrome. Пластинка Pe Dos вышла на лейбле Vakant."
+  },
+  "primalcode": {
+    "name": "Primal Code",
+    "bio": "Primal Code — миланский техно-дуэт Давиде Перроне и Габриэле Джуджоли. Пластинка Caimano Tribe вышла на лейбле Hypnus Records."
+  },
+  "princedetakicardie": {
+    "name": "Prince de Takicardie",
+    "bio": "Prince de Takicardie — французский диджей и продюсер Рафаэль Бенелюз из Марселя, также выпускается как Δ. Пластинка Δ = D = Dirty вышла на лейбле Exarde, он ведёт лейбл Prince's Castle Records."
+  },
+  "prinzezo": {
+    "name": "Prinz Ezo",
+    "bio": "Prinz Ezo — псевдоним датского музыканта Бьёрна Кристиансена, также известного как Bjørn Svin. Пластинка Kurier вышла на лейбле Tech-Nology."
+  },
+  "progression": {
+    "name": "Progression",
+    "bio": "Progression — техно-продюсер Карл Херс-Джонс из Бристоля. Пластинка Paralipsis EP вышла на лейбле Mord."
+  },
+  "prz": {
+    "name": "PRZ",
+    "bio": "PRZ — продюсер Галь Перес из Тель-Авива, сооснователь лейбла Chateau Royal. Пластинка Pigmentor вышла на лейбле Return To Disorder."
+  },
+  "publicenergy": {
+    "name": "Public Energy",
+    "bio": "Public Energy — один из псевдонимов нидерландского техно-продюсера Йохема Паапа из Роттердама, более известного как Speedy J. Под этим именем вышел трек Three O Three."
+  },
+  "pwcca": {
+    "name": "PWCCA",
+    "bio": "PWCCA — техно-продюсер Хосе Чакон Бенито из Мадрида. Ведёт лейбл Hard Tools, альбом Dweller of Darkness вышел на лейбле Mord."
+  },
+  "pylot": {
+    "name": "Pylot",
+    "bio": "Pylot — шотландский техно-продюсер Крейг Райс из Данди. Пластинка Tar 33 вышла на лейбле Tar Hallow."
+  },
+  "pyramidaldecode": {
+    "name": "Pyramidal Decode",
+    "bio": "Pyramidal Decode — итальянский техно-продюсер Франческо Де Марцо, также участвовал в дуэте Ort3d. Пластинка Dominio EP вышла на лейбле Mord."
+  },
+  "queeronacid": {
+    "name": "Queer On Acid",
+    "bio": "Queer On Acid — проект и лейбл из Риги, его ведут Макс Ломов и Богдан Таран. Вместе с Posthuman и Hardton они вышли на серии Acid Avengers."
+  },
+  "quirke": {
+    "name": "Quirke",
+    "bio": "Quirke — лондонский продюсер Джош Квирк. В 2010-х его пластинки выходили на Young Turks и Whities, Configuration OT вышел на Dekmantel."
+  },
+  "racetospace": {
+    "name": "Race To Space",
+    "bio": "Race To Space — электронная группа из Москвы, среди участников — Вадим Маевский, Александр Малышев и Мириам Сехон. Пластинка Baikal вышла на лейбле Ketama."
+  },
+  "radioslave": {
+    "name": "Radio Slave",
+    "bio": "Radio Slave — проект британского диджея и продюсера Мэтта Эдвардса. В 2006 году он основал лейбл Rekids, много лет работал в берлинской студии, с 2022-го живёт на Хваре."
+  },
+  "raff": {
+    "name": "RAFF",
+    "bio": "RAFF — нидерландский диджей и продюсер Рафик из Роттердама. Выпускается на лейбле BAKK, в том числе на сборнике XOXO Part 2."
+  },
+  "raffaeleattanasio": {
+    "name": "Raffaele Attanasio",
+    "bio": "Raffaele Attanasio — итальянский диджей, продюсер и пианист, родился и вырос в Муньяно-ди-Наполи. В 2016 году основал лейбл Letters From Jerusalem, пластинка Quasar EP вышла на Mutual Rytm."
+  },
+  "raikkonen": {
+    "name": "Räikkönen",
+    "bio": "Räikkönen — псевдоним колумбийского продюсера Даниэля Рестрепо из Медельина, также известного как Astronomical Telegram. Кассета Väder вышла на лейбле Mord."
+  },
+  "rambalcochet": {
+    "name": "Rambal Cochet",
+    "bio": "Rambal Cochet — электронный музыкант Константин Исаев из Краснодара, также известный как Volta Cab. Пластинка Dungeon Jungle вышла на лейбле Analog Concept."
+  },
+  "randomorder": {
+    "name": "Random Order",
+    "bio": "Random Order — парижский техно-дуэт Пабло Дюмениля (Hyden) и Габриэля Шабби (Seigg). Вместе с Undivulged выпустили Automatic Responser EP на лейбле Molekul."
+  },
+  "rapha": {
+    "name": "Rapha",
+    "bio": "Rapha — диджей и продюсер Рафаэль Гюнтер из Оффенбаха. В 2004 году на лейбле Druck вышла пластинка Jack Attack / Get Back."
+  },
+  "raykandinski": {
+    "name": "Ray Kandinski",
+    "bio": "Ray Kandinski — диджей и продюсер, родом из Ганновера, живёт в Берлине, также выпускается как Barry Helafonte. Пластинка Garant вышла на лейбле Lobster Theremin."
+  },
+  "reaxis": {
+    "name": "Re:Axis",
+    "bio": "Re:Axis — португальский продюсер Жозе Диогу Коррейя, родом из Каминьи. Пластинка Ancient Ways Remix EP вышла на лейбле Planet Rhythm."
+  },
+  "rebeccadellepiane": {
+    "name": "Rebecca Delle Piane",
+    "bio": "Rebecca Delle Piane — итальянская артистка из Рима. Пластинка Kriotica вышла на лейбле KEY."
+  },
+  "recid": {
+    "name": "Recid",
+    "bio": "Recid — украинский техно-диджей и продюсер Андрей Дьяченко из Кропивницкого. Пластинка Too Fast вышла на лейбле ARTS."
+  },
+  "redjack": {
+    "name": "RedJack",
+    "bio": "RedJack — эсид-проект Йохана Понса, также известного как Atakzed. Вместе с Robodrum и Baka вышел на лейбле Zodiak Commune."
+  },
+  "renniefoster": {
+    "name": "Rennie Foster",
+    "bio": "Rennie Foster — канадский диджей и продюсер, родом из Виктории, после 2011 года работает в Ванкувере. Ведёт лейбл RF, вместе с Drivetrain выпустил Introspect на Soiree Detroit."
+  },
+  "repro": {
+    "name": "Repro",
+    "bio": "Repro — техно-продюсер Александр Саломонсен из Копенгагена. Пластинка Fear Candy вышла на лейбле Euromantic."
+  },
+  "rhythmsofprescott": {
+    "name": "Rhythms Of Prescott",
+    "bio": "Rhythms Of Prescott — проект Найалла Прескотта, ирландского продюсера, живущего в Лондоне. Пластинка Run Of Deluxe вышла на лейбле Potency."
+  },
+  "ribe": {
+    "name": "Ribé",
+    "bio": "Ribé — мадридский техно-продюсер Альберто Паскуаль. Вместе с Roll Dann выпустил Virtus Occulta на лейбле Mutual Rytm."
+  },
+  "ricopuestel": {
+    "name": "Rico Puestel",
+    "bio": "Rico Puestel — диджей и продюсер Рико Фрибе из Киля. Пластинка Afar EP вышла на лейбле Break New Soil."
+  },
+  "ritzilee": {
+    "name": "Ritzi Lee",
+    "bio": "Ritzi Lee — нидерландский техно-продюсер и диджей Стив Лим. Основал лейбл Underground Liberation, пластинка Momentum с ремиксами Surgeon и Troy вышла на Symbolism."
+  },
+  "robertmiles": {
+    "name": "Robert Miles",
+    "bio": "Robert Miles — швейцарско-итальянский продюсер и музыкант Роберто Кончина, родился в Флёрье в 1969 году, вырос в Фаганье. В 1995-м вышел трек Children, умер в мае 2017 года на Ибице."
+  },
+  "robodrum": {
+    "name": "Robodrum",
+    "bio": "Robodrum — польский продюсер Пшемек Кудук из Щецина, также известный как Electromonter. Вместе с Baka и RedJack вышел на лейбле Zodiak Commune."
+  },
+  "rodiaz": {
+    "name": "Rodiaz",
+    "bio": "Rodiaz — техно-диджей и продюсер из Мадрида. Вместе с Rove Ranger выпустил Synthesis EP на лейбле Index Marcel Fengler."
+  },
+  "roi": {
+    "name": "Roi",
+    "bio": "Roi — техно-диджей и продюсер из Ла-Коруньи, сооснователь лейбла и проекта Fanzine. Пластинка Monomyth EP вышла на собственном издании."
+  },
+  "rolando": {
+    "name": "DJ Rolando",
+    "bio": "DJ Rolando — детройтский диджей и продюсер Роландо Рей Роча. В 1994–2004 годах входил в Underground Resistance, в 1999-м под именем Aztec Mystic вышел трек Knights Of The Jaguar."
+  },
+  "rolldann": {
+    "name": "Roll Dann",
+    "bio": "Roll Dann — диджей и продюсер Пабло Песес-Барба из Мадрида. Вместе с Ribé выпустил Virtus Occulta на лейбле Mutual Rytm."
+  },
+  "rommek": {
+    "name": "Rommek",
+    "bio": "Rommek — лондонский техно-продюсер Ромек Бойер. Вместе с Wrong Assessment, Fabrizio Lapiana и Deepbass вышел на сборнике Various Artists 001 лейбла Disconnekt."
+  },
+  "roto": {
+    "name": "Roto",
+    "bio": "Roto — испанский электронный продюсер. Пластинка Dear Suburbia EP вышла на лейбле Exarde."
+  },
+  "royoftheravers": {
+    "name": "Roy Of The Ravers",
+    "bio": "Roy Of The Ravers — британский продюсер Сэм Бакли из Ноттингема. Вместе с Jerry LaFlim вышел на серии Acid Avengers."
+  },
+  "rsn": {
+    "name": "RSN",
+    "bio": "RSN — электронный продюсер Егор Бабичев из Санкт-Петербурга, также известный как Tsyfra. Вместе с Sinitsin выпустил Morphing Reality EP на лейбле Electro Music Coalition."
+  },
+  "rtr": {
+    "name": "RTR",
+    "bio": "RTR — продюсер Николя Лепаж из Ла-Ага во Франции, также известный как Guavid. Пластинка Circle вышла на лейбле WeMe Records."
+  },
+  "rufo": {
+    "name": "Rufo",
+    "bio": "Rufo — диджей и продюсер из Лимы, живёт в Барселоне. Основал лейблы Siku Series и Coqueto Records, пластинка Cronicas Del Milenio Pasado вышла на Exarde."
+  },
+  "ruhig": {
+    "name": "Ruhig",
+    "bio": "Ruhig — итальянский диджей и продюсер Луиджи Киккелла, сооснователь лейбла Natch Records. Вместе с Domenico Crisci выпустил кассету Land of Ecstacy на лейбле Mord."
   }
 }
