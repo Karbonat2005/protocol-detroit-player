@@ -263,11 +263,13 @@ window.PD_SNIPPETS={"702363149302":["AAR018R",[["A1","Steal & Deal"],["A2","The 
 
   // ---- «Об артисте» block (bios loaded lazily from artist_bios.json) ----
   var BIO_URL = 'https://cdn.jsdelivr.net/gh/Karbonat2005/protocol-detroit-player@main/artist_bios.json';
+  var BIO_RAW = 'https://raw.githubusercontent.com/Karbonat2005/protocol-detroit-player/main/artist_bios.json';
   var bios = null, biosP = null;
   function bkey(s){ return String(s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/&amp;/g,'&').replace(/[^a-z0-9а-яё]+/g,''); }
   function loadBios(){
     if (bios || biosP) return biosP;
-    biosP = fetch(BIO_URL).then(function(r){ return r.ok ? r.json() : {}; }).catch(function(){ return {}; })
+    var get = function(u){ return fetch(u).then(function(r){ if (!r.ok) throw 0; return r.json(); }); };
+    biosP = get(BIO_RAW).catch(function(){ return get(BIO_URL); }).catch(function(){ return {}; })
       .then(function(j){ bios = j || {}; schedule(); return bios; });
     return biosP;
   }
