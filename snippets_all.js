@@ -61,7 +61,7 @@ window.PD_SNIPPETS={"702363149302":["AAR018R",[["A1","Steal & Deal"],["A2","The 
   }
 
   function doTitle(el){
-    if (el.getAttribute('data-pd-al') === (el.textContent||'')) return;
+    if (el.getAttribute('data-pd-al') === (el.textContent||'') && el.querySelector('a.pd-al')) return;
     if (el.querySelector('a.pd-al')) return;
     var text = el.textContent || ''; if (!text.trim()) return;
     var scope = scopeOf(el), ch = charcsLabel(scope);
@@ -108,10 +108,54 @@ window.PD_SNIPPETS={"702363149302":["AAR018R",[["A1","Steal & Deal"],["A2","The 
       n.parentNode.replaceChild(f, n);
     }
   }
+
+  // ---- «Об артисте» block (bios loaded lazily from artist_bios.json) ----
+  var BIO_URL = 'https://cdn.jsdelivr.net/gh/Karbonat2005/protocol-detroit-player@main/artist_bios.json';
+  var bios = null, biosP = null;
+  function bkey(s){ return String(s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/&amp;/g,'&').replace(/[^a-z0-9а-яё]+/g,''); }
+  function loadBios(){
+    if (bios || biosP) return biosP;
+    biosP = fetch(BIO_URL).then(function(r){ return r.ok ? r.json() : {}; }).catch(function(){ return {}; })
+      .then(function(j){ bios = j || {}; schedule(); return bios; });
+    return biosP;
+  }
+  (function(){ var st = document.createElement('style'); st.textContent =
+    '.pd-bio{margin-top:20px}' +
+    '.pd-bio__h{font-size:11px;line-height:1.4;letter-spacing:.08em;text-transform:uppercase;color:#8c8c8c;font-weight:500;margin:0 0 6px}' +
+    '.pd-bio__p{margin:0 0 8px}.pd-bio__p:last-child{margin-bottom:0}';
+    document.head.appendChild(st); })();
+  function doBios(nameEl, scope){
+    var links = nameEl.querySelectorAll('a.pd-al'), arts = [], seen = {};
+    for (var i=0;i<links.length;i++){
+      var h = links[i].getAttribute('href') || ''; if (h.indexOf('tfc_query') < 0) continue;
+      var nm = (links[i].textContent || '').trim(), k = bkey(nm); if (!k || seen[k]) continue; seen[k] = 1; arts.push({k:k, name:nm});
+    }
+    var box = scope.querySelector('.js-store-prod-text'); if (!box) return;
+    var old = box.querySelector('.pd-bio'), sig = arts.map(function(a){ return a.k; }).join('|');
+    if (old && old.getAttribute('data-sig') === sig) return;
+    if (!arts.length) { if (old) old.parentNode.removeChild(old); return; }
+    if (!bios) { loadBios(); return; }
+    if (old) old.parentNode.removeChild(old);
+    var desc = box.querySelector('.js-store-prod-all-text');
+    if (/Об артисте/i.test((desc || box).textContent || '')) return;
+    var found = arts.filter(function(a){ return bios[a.k] && bios[a.k].bio; });
+    if (!found.length) return;
+    var wrap = document.createElement('div'); wrap.className = 'pd-bio'; wrap.setAttribute('data-sig', sig);
+    var hd = document.createElement('div'); hd.className = 'pd-bio__h'; hd.textContent = 'Об артисте'; wrap.appendChild(hd);
+    found.forEach(function(a){
+      var b = bios[a.k], text = b.bio, pr = document.createElement('p'); pr.className = 'pd-bio__p';
+      var lead = b.name && text.indexOf(b.name) === 0 ? b.name : null;
+      pr.appendChild(link(lead || b.name || a.name, searchUrl(a.name), 'Все релизы: ' + a.name));
+      pr.appendChild(document.createTextNode(lead ? text.slice(lead.length) : ' — ' + text));
+      wrap.appendChild(pr);
+    });
+    if (desc && desc.parentNode === box) box.insertBefore(wrap, desc.nextSibling); else box.appendChild(wrap);
+  }
   function run(){
     var names = document.querySelectorAll('.t-store__prod-popup__name.js-store-prod-name');
     for (var i=0;i<names.length;i++){
       try { doTitle(names[i]); var sc = scopeOf(names[i]); doCharcs(sc); doDescr(sc); } catch(e) { /* keep page intact */ }
+      try { doBios(names[i], scopeOf(names[i])); } catch(e) {}
     }
   }
   var timer = null;
