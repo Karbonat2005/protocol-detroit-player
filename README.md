@@ -1,1 +1,1 @@
-# protocol-detroit-player
+Snippet database for the Protocol: Detroit store player (detroit.moscow).
