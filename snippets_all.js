@@ -318,3 +318,12 @@ window.PD_SNIPPETS={"702363149302":["AAR018R",[["A1","Steal & Deal"],["A2","The 
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start); else start();
 })();
+/* PD: unwrap third-party links in product texts (clone, deejay, triplevision...) */
+(function(){
+  var SEL='.js-store-prod-descr a[href], .t-store__card__descr a[href], .js-store-prod-text a[href], .js-store-prod-all-text a[href], .t-store__prod-popup__text a[href], .t-store__card__text a[href]';
+  function ext(a){ if(a.classList.contains('pd-al'))return false; var h=a.getAttribute('href')||''; if(!/^https?:\/\//i.test(h))return false; try{var u=new URL(h);return !/(^|\.)detroit\.moscow$/i.test(u.hostname);}catch(e){return false;} }
+  function clean(){ var l=document.querySelectorAll(SEL); for(var i=0;i<l.length;i++){var a=l[i]; if(!ext(a))continue; var p=a.parentNode; while(a.firstChild)p.insertBefore(a.firstChild,a); p.removeChild(a);} }
+  var t=null; function sch(){ if(t)return; t=setTimeout(function(){t=null;clean();},150); }
+  function go(){ clean(); new MutationObserver(sch).observe(document.body,{childList:true,subtree:true}); }
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',go); else go();
+})();
