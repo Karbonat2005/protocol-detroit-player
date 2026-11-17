@@ -149,7 +149,7 @@ window.PD_SNIPPETS={"702363149302":["AAR018R",[["A1","Steal & Deal"],["A2","The 
   }
   function labelValueNode(name, href){
     if (href && manyReleases(name))
-      return linkWithHint(name, href, 'Все пластинки лейбла ' + (filterLabel(name) || name), '(все релизы лейбла)');
+      return linkWithHint(name, href, 'Все пластинки лейбла ' + (filterLabel(name) || name), '→ все релизы');
     return document.createTextNode(name);
   }
   function artistLineFrag(arts){
@@ -158,7 +158,7 @@ window.PD_SNIPPETS={"702363149302":["AAR018R",[["A1","Steal & Deal"],["A2","The 
     f.appendChild(st); f.appendChild(document.createTextNode(' '));
     arts.forEach(function(a, i){
       if (i) f.appendChild(document.createTextNode(', '));
-      f.appendChild(linkWithHint(a.name, a.href, 'Все релизы: ' + a.name, '(все релизы артиста)'));
+      f.appendChild(linkWithHint(a.name, a.href, 'Все релизы: ' + a.name, '→ все релизы'));
     });
     return f;
   }
