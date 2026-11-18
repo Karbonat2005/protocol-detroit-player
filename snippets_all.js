@@ -414,7 +414,76 @@ window.PD_SNIPPETS={"702363149302":["AAR018R",[["A1","Steal & Deal"],["A2","The 
     else if (desc && desc.parentNode === box) box.insertBefore(wrap, desc.nextSibling);
     else box.appendChild(wrap);
   }
+  // PD: drop leftover «пресс-релиза не нашлось» notes from product description text
+  function isNoprSent(s){
+    var t = String(s || '').toLowerCase().replace(/\s+/g, ' ');
+    if (!/пресс[- ]?релиз/.test(t)) return false;
+    if (!/(разв[её]рнут|официальн|связн|над[её]жн)/.test(t)) return false;
+    return /не\s*нашл|найти\s*не\s*удал|не\s*удалось|почти\s*нет|(^|[^а-яёa-z0-9])нет([^а-яёa-z0-9]|$)/.test(t);
+  }
+  function cleanNoprText(s){
+    if (!s || !/пресс[- ]?релиз/i.test(s)) return s;
+    var chunks = [];
+    var i = 0, n = s.length;
+    while (i < n){
+      var j = i;
+      while (j < n && '.!?'.indexOf(s.charAt(j)) === -1) j++;
+      if (j < n){
+        while (j < n && '.!?'.indexOf(s.charAt(j)) !== -1) j++;
+        chunks.push(s.slice(i, j));
+        i = j;
+      } else {
+        chunks.push(s.slice(i));
+        break;
+      }
+    }
+    var kept = [];
+    for (var k = 0; k < chunks.length; k++){
+      if (!isNoprSent(chunks[k])) kept.push(chunks[k]);
+    }
+    if (kept.length === chunks.length) return s;
+    var out = kept.join('');
+    if (chunks.length && isNoprSent(chunks[0])) out = out.replace(/^[ \t\u00a0\n\r]+/, '');
+    if (chunks.length && isNoprSent(chunks[chunks.length - 1])) out = out.replace(/[ \t\u00a0]+$/, '');
+    out = out.replace(/[ \t\u00a0]{2,}/g, ' ');
+    out = out.replace(/[ \t\u00a0]+\n/g, '\n');
+    out = out.replace(/\n[ \t\u00a0]+/g, '\n');
+    out = out.replace(/\n{3,}/g, '\n\n');
+    return out;
+  }
+  function stripNoprBox(box){
+    if (!box) return;
+    var walker = document.createTreeWalker(box, NodeFilter.SHOW_TEXT, null, false);
+    var nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    var touched = [];
+    for (var i = 0; i < nodes.length; i++){
+      var node = nodes[i];
+      var parent = node.parentNode;
+      if (!parent) continue;
+      var el = parent.nodeType === 1 ? parent : parent.parentElement;
+      if (el && el.closest && el.closest('.pd-bio, .pd-lbio, script, style')) continue;
+      var next = cleanNoprText(node.nodeValue);
+      if (next === node.nodeValue) continue;
+      if (next === '') parent.removeChild(node);
+      else node.nodeValue = next;
+      touched.push(parent);
+    }
+    for (var t = 0; t < touched.length; t++){
+      var p = touched[t];
+      while (p && p !== box && p.nodeType === 1 && p.tagName && p.tagName.toLowerCase() !== 'p') p = p.parentElement;
+      if (!p || p === box || !p.tagName || p.tagName.toLowerCase() !== 'p') continue;
+      if (p.querySelector && p.querySelector('.pd-bio, .pd-lbio, img, iframe, video, input')) continue;
+      var txt = (p.textContent || '').replace(/\s+/g, '');
+      if (!txt && p.parentNode) p.parentNode.removeChild(p);
+    }
+  }
+  function stripNoprAll(){
+    var boxes = document.querySelectorAll('.js-store-prod-text, .t-store__prod-popup__text');
+    for (var i = 0; i < boxes.length; i++) stripNoprBox(boxes[i]);
+  }
   function run(){
+    try { stripNoprAll(); } catch(e) {}
     var names = document.querySelectorAll('.t-store__prod-popup__name.js-store-prod-name');
     for (var i=0;i<names.length;i++){
       try { doTitle(names[i]); var sc = scopeOf(names[i]); doCharcs(sc); doDescr(sc, names[i]); } catch(e) { /* keep page intact */ }
