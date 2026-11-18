@@ -266,15 +266,15 @@ window.PD_SNIPPETS={"702363149302":["AAR018R",[["A1","Steal & Deal"],["A2","The 
   var BIO_RAW = 'https://raw.githubusercontent.com/Karbonat2005/protocol-detroit-player/main/artist_bios.json';
   var bios = null, biosP = null;
   function bkey(s){ return String(s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/&amp;/g,'&').replace(/[^a-z0-9а-яё]+/g,''); }
+  function get(u){ return fetch(u).then(function(r){ if (!r.ok) throw 0; return r.json(); }); }
   function loadBios(){
     if (bios || biosP) return biosP;
-    var get = function(u){ return fetch(u).then(function(r){ if (!r.ok) throw 0; return r.json(); }); };
     biosP = get(BIO_RAW).catch(function(){ return get(BIO_URL); }).catch(function(){ return {}; })
       .then(function(j){ bios = j || {}; schedule(); return bios; });
     return biosP;
   }
   (function(){ var st = document.createElement('style'); st.textContent =
-    '.pd-bio{margin-top:20px}' +
+    '.pd-bio,.pd-lbio{margin-top:20px}' +
     '.pd-bio__h{font-size:11px;line-height:1.4;letter-spacing:.08em;text-transform:uppercase;color:#8c8c8c;font-weight:500;margin:0 0 6px}' +
     '.pd-bio__p{margin:0 0 8px}.pd-bio__p:last-child{margin-bottom:0}';
     document.head.appendChild(st); })();
@@ -303,13 +303,123 @@ window.PD_SNIPPETS={"702363149302":["AAR018R",[["A1","Steal & Deal"],["A2","The 
       pr.appendChild(document.createTextNode(lead ? text.slice(lead.length) : ' — ' + text));
       wrap.appendChild(pr);
     });
-    if (desc && desc.parentNode === box) box.insertBefore(wrap, desc.nextSibling); else box.appendChild(wrap);
+    var lbio = box.querySelector('.pd-lbio');
+    if (lbio && lbio.parentNode) lbio.parentNode.insertBefore(wrap, lbio);
+    else if (desc && desc.parentNode === box) box.insertBefore(wrap, desc.nextSibling);
+    else box.appendChild(wrap);
+  }
+
+  // ---- «О лейбле» block (bios loaded lazily from label_bios.json) ----
+  var LABEL_BIO_URL = 'https://cdn.jsdelivr.net/gh/Karbonat2005/protocol-detroit-player@main/label_bios.json';
+  var LABEL_BIO_RAW = 'https://raw.githubusercontent.com/Karbonat2005/protocol-detroit-player/main/label_bios.json';
+  var labelBios = null, labelBiosP = null;
+  function loadLabelBios(){
+    if (labelBios || labelBiosP) return labelBiosP;
+    labelBiosP = get(LABEL_BIO_RAW).catch(function(){ return get(LABEL_BIO_URL); }).catch(function(){ return {}; })
+      .then(function(j){ labelBios = j || {}; schedule(); return labelBios; });
+    return labelBiosP;
+  }
+  function labelFromStrong(strong){
+    if (!strong) return null;
+    var val = '', href = '', a = null, n = strong.nextSibling;
+    while (n && !(n.nodeType === 1 && (n.tagName === 'BR' || n.tagName === 'STRONG' || n.tagName === 'P'))){
+      if (n.nodeType === 1){
+        var x = (n.classList && n.classList.contains('pd-al')) ? n : (n.querySelector && n.querySelector('a.pd-al'));
+        if (x) { a = x; href = x.getAttribute('href') || href; }
+      }
+      val += n.textContent || '';
+      n = n.nextSibling;
+    }
+    var name = '';
+    if (a){
+      for (var c = a.firstChild; c; c = c.nextSibling){
+        if (c.nodeType === 3 && c.parentNode === a && String(c.nodeValue || '').trim()){
+          name = String(c.nodeValue || '').trim(); break;
+        }
+      }
+      if (!name) name = (a.textContent || '').replace(/\s*→\s*все релизы\s*$/i, '').trim();
+    }
+    if (!name) name = val.replace(/\s*→\s*все релизы\s*$/i, '').trim();
+    if (!name) return null;
+    return {name: name, href: href || labelUrl(name)};
+  }
+  function productLabel(scope, nameEl){
+    var box = scope.querySelector('.js-store-prod-text') || scope;
+    var fromStrong = labelFromStrong(findLabelStrong(box));
+    if (fromStrong) return fromStrong;
+    var labInfo = nameEl ? titleLabelInfo(nameEl) : null;
+    if (labInfo && labInfo.name) return {name: labInfo.name, href: labInfo.href || labelUrl(labInfo.name)};
+    var ch = charcsLabel(scope);
+    if (ch && ch.name) return {name: String(ch.name).trim(), href: labelUrl(ch.name)};
+    return null;
+  }
+  function lookupLabelBio(name){
+    if (!name || !labelBios) return null;
+    var tried = {};
+    var tryKey = function(s){
+      var k = norm(s);
+      if (!k || tried[k]) return null;
+      tried[k] = 1;
+      if (labelBios[k] && labelBios[k].bio) return {k: k, entry: labelBios[k]};
+      var f = filterLabel(s);
+      if (f){
+        k = norm(f);
+        if (!tried[k]){
+          tried[k] = 1;
+          if (labelBios[k] && labelBios[k].bio) return {k: k, entry: labelBios[k]};
+        }
+      }
+      return null;
+    };
+    var hit = tryKey(name);
+    if (hit) return hit;
+    var parts = String(name || '').split(/\s*\/\s*/);
+    for (var i = 0; i < parts.length; i++){
+      if (parts[i] && parts[i].trim()){
+        hit = tryKey(parts[i].trim());
+        if (hit) return hit;
+      }
+    }
+    return null;
+  }
+  function doLabelBios(nameEl, scope){
+    var box = scope.querySelector('.js-store-prod-text'); if (!box) return;
+    var lab = productLabel(scope, nameEl);
+    var old = box.querySelector('.pd-lbio');
+    var sig = lab ? norm(lab.name) : '';
+    if (old && sig && old.getAttribute('data-sig') === sig) return;
+    if (!lab){ if (old) old.parentNode.removeChild(old); return; }
+    if (!labelBios){ loadLabelBios(); return; }
+    if (old) old.parentNode.removeChild(old);
+    var desc = box.querySelector('.js-store-prod-all-text');
+    if (/О лейбле/i.test((desc || box).textContent || '')) return;
+    var found = lookupLabelBio(lab.name);
+    if (!found) return;
+    var b = found.entry, text = b.bio, displayName = b.name || lab.name;
+    var wrap = document.createElement('div'); wrap.className = 'pd-lbio'; wrap.setAttribute('data-sig', sig); wrap.setAttribute('data-pd-bio', 'label');
+    var hd = document.createElement('div'); hd.className = 'pd-bio__h'; hd.textContent = 'О лейбле'; wrap.appendChild(hd);
+    var pr = document.createElement('p'); pr.className = 'pd-bio__p';
+    var lead = displayName && text.indexOf(displayName) === 0 ? displayName : null;
+    var clickable = manyReleases(lab.name) || manyReleases(displayName);
+    if (clickable){
+      var href = (lab.href && lab.href.indexOf('tfc_charact') >= 0) ? lab.href : labelUrl(displayName);
+      pr.appendChild(link(lead || displayName, href, 'Все пластинки лейбла ' + (filterLabel(displayName) || displayName)));
+    } else {
+      pr.appendChild(document.createTextNode(lead || displayName));
+    }
+    pr.appendChild(document.createTextNode(lead ? text.slice(lead.length) : ' — ' + text));
+    wrap.appendChild(pr);
+    var artistBio = box.querySelector('.pd-bio');
+    if (artistBio && artistBio.parentNode) artistBio.parentNode.insertBefore(wrap, artistBio.nextSibling);
+    else if (desc && desc.parentNode === box) box.insertBefore(wrap, desc.nextSibling);
+    else box.appendChild(wrap);
   }
   function run(){
     var names = document.querySelectorAll('.t-store__prod-popup__name.js-store-prod-name');
     for (var i=0;i<names.length;i++){
       try { doTitle(names[i]); var sc = scopeOf(names[i]); doCharcs(sc); doDescr(sc, names[i]); } catch(e) { /* keep page intact */ }
       try { doBios(names[i], scopeOf(names[i])); } catch(e) {}
+      try { doLabelBios(names[i], scopeOf(names[i])); } catch(e) {}
     }
   }
   var timer = null;
