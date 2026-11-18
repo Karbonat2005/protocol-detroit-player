@@ -1,0 +1,1250 @@
+{
+  "mord": {
+    "name": "MORD",
+    "bio": "MORD — роттердамский техно-лейбл, который в 2013 году основал нидерландский диджей и продюсер Bas Mooy. Название сокращено от польского morderstwo — «убийство». Среди артистов — UVB, Lag, Charlton и сам Bas Mooy."
+  },
+  "mordrecords": {
+    "name": "MORD",
+    "bio": "MORD — роттердамский техно-лейбл, который в 2013 году основал нидерландский диджей и продюсер Bas Mooy. Название сокращено от польского morderstwo — «убийство». Среди артистов — UVB, Lag, Charlton и сам Bas Mooy."
+  },
+  "mutualrytm": {
+    "name": "Mutual Rytm",
+    "bio": "Mutual Rytm — техно-лейбл из Штутгарта, основанный и курируемый диджеем и продюсером Marco Bläsi, известным как SHDW. Среди артистов — Chontane, Lars Huismann, Regent и Raffaele Attanasio."
+  },
+  "mutualrytmrecords": {
+    "name": "Mutual Rytm",
+    "bio": "Mutual Rytm — техно-лейбл из Штутгарта, основанный и курируемый диджеем и продюсером Marco Bläsi, известным как SHDW. Среди артистов — Chontane, Lars Huismann, Regent и Raffaele Attanasio."
+  },
+  "tresor": {
+    "name": "Tresor",
+    "bio": "Tresor — берлинский техно-лейбл, основанный Димитри Хегеманном в июле 1991 года: название взято у одноимённого клуба, открытого в подземном банковском хранилище. Лейбл связал берлинскую и детройтскую сцены; среди первых релизов — проект X-101 группы Underground Resistance. У Tresor выходили Jeff Mills, Drexciya и Blake Baxter."
+  },
+  "tresorrecords": {
+    "name": "Tresor",
+    "bio": "Tresor — берлинский техно-лейбл, основанный Димитри Хегеманном в июле 1991 года: название взято у одноимённого клуба, открытого в подземном банковском хранилище. Лейбл связал берлинскую и детройтскую сцены; среди первых релизов — проект X-101 группы Underground Resistance. У Tresor выходили Jeff Mills, Drexciya и Blake Baxter."
+  },
+  "трип": {
+    "name": "трип",
+    "bio": "трип (trip) — лейбл российской диджея и продюсера Nina Kraviz, основанный в 2014 году. Среди артистов — Bjarki, Vladimir Dubyshkin, Aleksi Perälä и сама Nina Kraviz."
+  },
+  "trip": {
+    "name": "трип",
+    "bio": "трип (trip) — лейбл российской диджея и продюсера Nina Kraviz, основанный в 2014 году. Среди артистов — Bjarki, Vladimir Dubyshkin, Aleksi Perälä и сама Nina Kraviz."
+  },
+  "tripтрип": {
+    "name": "трип",
+    "bio": "трип (trip) — лейбл российской диджея и продюсера Nina Kraviz, основанный в 2014 году. Среди артистов — Bjarki, Vladimir Dubyshkin, Aleksi Perälä и сама Nina Kraviz."
+  },
+  "трипtrip": {
+    "name": "трип",
+    "bio": "трип (trip) — лейбл российской диджея и продюсера Nina Kraviz, основанный в 2014 году. Среди артистов — Bjarki, Vladimir Dubyshkin, Aleksi Perälä и сама Nina Kraviz."
+  },
+  "planetrhythm": {
+    "name": "Planet Rhythm",
+    "bio": "Planet Rhythm — техно-лейбл, который в начале 1990-х основал в Швеции Glenn Wilson; среди ранних авторов были Adam Beyer, Umek, Gaetek и Thomas Krome. Около 2005 года лейбл перешёл к нидерландской компании Triple Vision Music Group и с тех пор базируется в Нидерландах."
+  },
+  "exarde": {
+    "name": "Exarde",
+    "bio": "Exarde — лейбл, которым руководит Ottuga. Среди артистов — Orbet, Rufo, Roto и Trascend∆Nce."
+  },
+  "arts": {
+    "name": "ARTS",
+    "bio": "ARTS — берлинский техно-лейбл, основанный в 2013 году продюсером Emmanuel. Среди артистов — Fabrizio Lapiana, Tensal, Keith Carnal и Cleric."
+  },
+  "lobstertheremin": {
+    "name": "Lobster Theremin",
+    "bio": "Lobster Theremin — лондонский лейбл электронной музыки, основанный в 2013 году; его курирует Asquith. В 2014 году при лейбле появилась дистрибуция Lobster Distribution, она закрылась в 2022-м. Среди ранних артистов — Palms Trax, Route 8 и Daze."
+  },
+  "lobsterthereminwhitelabel": {
+    "name": "Lobster Theremin",
+    "bio": "Lobster Theremin — лондонский лейбл электронной музыки, основанный в 2013 году; его курирует Asquith. В 2014 году при лейбле появилась дистрибуция Lobster Distribution, она закрылась в 2022-м. Среди ранних артистов — Palms Trax, Route 8 и Daze."
+  },
+  "clone": {
+    "name": "Clone",
+    "bio": "Clone — нидерландский лейбл электро, техно и хауса, основанный Serge Verschuur. На части релизов указан как Clone Music; у лейбла есть серии вроде Clone Royal Oak, West Coast и Basement. Среди артистов — Legowelt, Aleksi Perälä и The Exaltics."
+  },
+  "clonebasement": {
+    "name": "Clone",
+    "bio": "Clone — нидерландский лейбл электро, техно и хауса, основанный Serge Verschuur. На части релизов указан как Clone Music; у лейбла есть серии вроде Clone Royal Oak, West Coast и Basement. Среди артистов — Legowelt, Aleksi Perälä и The Exaltics."
+  },
+  "clonebasementseries": {
+    "name": "Clone",
+    "bio": "Clone — нидерландский лейбл электро, техно и хауса, основанный Serge Verschuur. На части релизов указан как Clone Music; у лейбла есть серии вроде Clone Royal Oak, West Coast и Basement. Среди артистов — Legowelt, Aleksi Perälä и The Exaltics."
+  },
+  "cloneclassiccuts": {
+    "name": "Clone",
+    "bio": "Clone — нидерландский лейбл электро, техно и хауса, основанный Serge Verschuur. На части релизов указан как Clone Music; у лейбла есть серии вроде Clone Royal Oak, West Coast и Basement. Среди артистов — Legowelt, Aleksi Perälä и The Exaltics."
+  },
+  "clonedub": {
+    "name": "Clone",
+    "bio": "Clone — нидерландский лейбл электро, техно и хауса, основанный Serge Verschuur. На части релизов указан как Clone Music; у лейбла есть серии вроде Clone Royal Oak, West Coast и Basement. Среди артистов — Legowelt, Aleksi Perälä и The Exaltics."
+  },
+  "cloneroyaloak": {
+    "name": "Clone",
+    "bio": "Clone — нидерландский лейбл электро, техно и хауса, основанный Serge Verschuur. На части релизов указан как Clone Music; у лейбла есть серии вроде Clone Royal Oak, West Coast и Basement. Среди артистов — Legowelt, Aleksi Perälä и The Exaltics."
+  },
+  "clonewestcoast": {
+    "name": "Clone",
+    "bio": "Clone — нидерландский лейбл электро, техно и хауса, основанный Serge Verschuur. На части релизов указан как Clone Music; у лейбла есть серии вроде Clone Royal Oak, West Coast и Basement. Среди артистов — Legowelt, Aleksi Perälä и The Exaltics."
+  },
+  "clonewestcoastseries": {
+    "name": "Clone",
+    "bio": "Clone — нидерландский лейбл электро, техно и хауса, основанный Serge Verschuur. На части релизов указан как Clone Music; у лейбла есть серии вроде Clone Royal Oak, West Coast и Basement. Среди артистов — Legowelt, Aleksi Perälä и The Exaltics."
+  },
+  "skeleven": {
+    "name": "SK_Eleven",
+    "bio": "SK_Eleven — техно-лейбл, основанный Setaoc Mass. Сначала он базировался в Манчестере, сейчас — в Берлине. Среди артистов — Setaoc Mass, Rene Wise и Holden Federico."
+  },
+  "sk11": {
+    "name": "SK_Eleven",
+    "bio": "SK_Eleven — техно-лейбл, основанный Setaoc Mass. Сначала он базировался в Манчестере, сейчас — в Берлине. Среди артистов — Setaoc Mass, Rene Wise и Holden Federico."
+  },
+  "mechatronica": {
+    "name": "Mechatronica",
+    "bio": "Mechatronica — берлинский лейбл, промогруппа и коллектив, связанный с электро и темой «человека, механики и электроники». Среди артистов — Assembler Code, Jensen Interceptor, Dez Williams и Cestrian."
+  },
+  "polegroup": {
+    "name": "Polegroup",
+    "bio": "Polegroup — испанский техно-лейбл, который в 2004 году основали Oscar Mulero, Christian Wünsch, Reeko и Exium. В 2005–2010 годах он не работал, затем был перезапущен сначала как Pole Records, потом как PoleGroup. Среди артистов — Oscar Mulero, Exium, Reeko и Christian Wünsch."
+  },
+  "polegrouprecords": {
+    "name": "Polegroup",
+    "bio": "Polegroup — испанский техно-лейбл, который в 2004 году основали Oscar Mulero, Christian Wünsch, Reeko и Exium. В 2005–2010 годах он не работал, затем был перезапущен сначала как Pole Records, потом как PoleGroup. Среди артистов — Oscar Mulero, Exium, Reeko и Christian Wünsch."
+  },
+  "analogconcept": {
+    "name": "Analog Concept",
+    "bio": "Analog Concept — лейбл электро, глубокого электро и эйсида, которым руководит Strange FM. Среди артистов — FFriend, Acidulant, Zobol и Low Orbit Satellite."
+  },
+  "analogconceptrussia": {
+    "name": "Analog Concept",
+    "bio": "Analog Concept — лейбл электро, глубокого электро и эйсида, которым руководит Strange FM. Среди артистов — FFriend, Acidulant, Zobol и Low Orbit Satellite."
+  },
+  "analogconceptscenaacid": {
+    "name": "Analog Concept",
+    "bio": "Analog Concept — лейбл электро, глубокого электро и эйсида, которым руководит Strange FM. Среди артистов — FFriend, Acidulant, Zobol и Low Orbit Satellite."
+  },
+  "thtarhallow": {
+    "name": "TH Tar Hallow",
+    "bio": "TH Tar Hallow — техно-лейбл из Роттердама. Среди артистов — Thanos Hana, DJ Savage, Decka и JSPRV35."
+  },
+  "tarhallow": {
+    "name": "TH Tar Hallow",
+    "bio": "TH Tar Hallow — техно-лейбл из Роттердама. Среди артистов — Thanos Hana, DJ Savage, Decka и JSPRV35."
+  },
+  "dekmantel": {
+    "name": "Dekmantel",
+    "bio": "Dekmantel Records — амстердамский лейбл, который в 2009 году основали Thomas Martojo и Casper Tielrooij; до этого они проводили вечеринки Dekmantel. Первым релизом стала пластинка дуэта Juju & Jordash. Позже у лейбла появился одноимённый фестиваль."
+  },
+  "delsin": {
+    "name": "Delsin",
+    "bio": "Delsin — амстердамский лейбл электронной музыки, основанный в 1996 году Peel Seamus. Среди артистов — Conforce, Artefakt, Answer Code Request и Bnjmn."
+  },
+  "hypnus": {
+    "name": "Hypnus",
+    "bio": "Hypnus Records — шведский лейбл электронной музыки, основанный Michel Iseneld в 2013 году в Больсте; в 2020-м он переехал в Стокгольм. Среди артистов — BLNDR, Luigi Tozzi, Birds ov Paradise и Primal Code."
+  },
+  "hypnusrecords": {
+    "name": "Hypnus",
+    "bio": "Hypnus Records — шведский лейбл электронной музыки, основанный Michel Iseneld в 2013 году в Больсте; в 2020-м он переехал в Стокгольм. Среди артистов — BLNDR, Luigi Tozzi, Birds ov Paradise и Primal Code."
+  },
+  "гостзвук": {
+    "name": "ГОСТ ЗВУК",
+    "bio": "ГОСТ ЗВУК (Gost Zvuk) — московский лейбл электронной музыки, основанный в 2014 году Ильдаром Зайнетдиновым (Low808). Среди артистов — Flaty, Nocow, OL и Buttechno. У лейбла есть линейка ГОСТ АРХИВ, посвящённая советской электронике."
+  },
+  "gostzvuk": {
+    "name": "ГОСТ ЗВУК",
+    "bio": "ГОСТ ЗВУК (Gost Zvuk) — московский лейбл электронной музыки, основанный в 2014 году Ильдаром Зайнетдиновым (Low808). Среди артистов — Flaty, Nocow, OL и Buttechno. У лейбла есть линейка ГОСТ АРХИВ, посвящённая советской электронике."
+  },
+  "emerald": {
+    "name": "Emerald",
+    "bio": "Emerald — нидерландский техно-лейбл Remco Beekwilder, основанный в 2018 году. Среди артистов — сам Beekwilder, Chontane, Endlec и FORUM."
+  },
+  "pgtune": {
+    "name": "PG Tune",
+    "bio": "PG TUNE — лейбл Philipp Gorbachev, основанный в 2015 году; открылся релизом «Power Of The Funk». Среди артистов — сам Gorbachev, а также Obgon, Ushi333 и Anatoly Zorin."
+  },
+  "soma": {
+    "name": "Soma",
+    "bio": "Soma (Soma Quality Recordings) — шотландский лейбл хауса и техно, основанный в 1991 году дуэтом Slam из Глазго. На Soma вышел дебют Daft Punk; среди артистов — Slam, Funk D'Void и Surgeon."
+  },
+  "somaqualityrecordings": {
+    "name": "Soma",
+    "bio": "Soma (Soma Quality Recordings) — шотландский лейбл хауса и техно, основанный в 1991 году дуэтом Slam из Глазго. На Soma вышел дебют Daft Punk; среди артистов — Slam, Funk D'Void и Surgeon."
+  },
+  "somarecords": {
+    "name": "Soma",
+    "bio": "Soma (Soma Quality Recordings) — шотландский лейбл хауса и техно, основанный в 1991 году дуэтом Slam из Глазго. На Soma вышел дебют Daft Punk; среди артистов — Slam, Funk D'Void и Surgeon."
+  },
+  "fuse": {
+    "name": "Fuse",
+    "bio": "Fuse Imprint — лейбл брюссельского техно-клуба Fuse, возобновлённый в 2023 году после более чем десятилетнего перерыва. Первый релиз новой серии — EP «Reshape» резидента клуба Altinbas. Среди артистов — также Border One, Setaoc Mass, Rosati и Temudo."
+  },
+  "fuseimprint": {
+    "name": "Fuse",
+    "bio": "Fuse Imprint — лейбл брюссельского техно-клуба Fuse, возобновлённый в 2023 году после более чем десятилетнего перерыва. Первый релиз новой серии — EP «Reshape» резидента клуба Altinbas. Среди артистов — также Border One, Setaoc Mass, Rosati и Temudo."
+  },
+  "internationalchrome": {
+    "name": "International Chrome",
+    "bio": "International Chrome — лейбл австралийских продюсеров Jensen Interceptor и Assembler Code. Среди артистов — они сами, а также The Hacker, Viikatory и Volruptus."
+  },
+  "kr3": {
+    "name": "KR3",
+    "bio": "KR3 — итальянский независимый лейбл, основанный в сентябре 2019 года. Среди артистов — Tensal, Reeko, Steve Bicknell и Takaaki Itoh."
+  },
+  "monnomblack": {
+    "name": "Monnom Black",
+    "bio": "Monnom Black — берлинский техно-лейбл, основанный Dax J. Среди артистов — сам Dax J, Thomas P. Heckmann и I Hate Models."
+  },
+  "paraiso": {
+    "name": "Paraiso",
+    "bio": "Paraíso — португальский лейбл андеграундного хауса, которым руководят Shcuro (João Ervedosa) и Maria Amor. Среди артистов — Shcuro, Maria Amor, The Advent, Morrice и Salbany."
+  },
+  "paraso": {
+    "name": "Paraiso",
+    "bio": "Paraíso — португальский лейбл андеграундного хауса, которым руководят Shcuro (João Ervedosa) и Maria Amor. Среди артистов — Shcuro, Maria Amor, The Advent, Morrice и Salbany."
+  },
+  "rs": {
+    "name": "R&S",
+    "bio": "R&S Records — бельгийский лейбл, название которого складывается из имён основателей: Renaat Vandepapeliere и Sabine Maes. Сначала вышел один релиз под именем Milos Music Belgium; сейчас лейбл по-прежнему независимый и управляется ими из Лондона. Среди артистов — Aphex Twin, Joey Beltram и Ken Ishii."
+  },
+  "rsrecords": {
+    "name": "R&S",
+    "bio": "R&S Records — бельгийский лейбл, название которого складывается из имён основателей: Renaat Vandepapeliere и Sabine Maes. Сначала вышел один релиз под именем Milos Music Belgium; сейчас лейбл по-прежнему независимый и управляется ими из Лондона. Среди артистов — Aphex Twin, Joey Beltram и Ken Ishii."
+  },
+  "rawax": {
+    "name": "Rawax",
+    "bio": "Rawax — лейбл из Франкфурта-на-Майне. Среди артистов — Ricardo Villalobos; у лейбла есть связанные серии вроде Acidwax и Chiwax."
+  },
+  "acidavengers": {
+    "name": "Acid Avengers",
+    "bio": "Acid Avengers — лейбл и серия вечеринок, подразделение Tripalium Corp. Среди артистов — Umwelt, DeFeKT, Maelstrom и Voiron."
+  },
+  "memoria": {
+    "name": "Memoria",
+    "bio": "Memoria Recordings — нидерландский лейбл из Бреды, выпускает винил и цифровые релизы. Среди артистов — Dragosh, Disuasiv, Plusculaar и Ilario Liburni."
+  },
+  "molekul": {
+    "name": "Molekul",
+    "bio": "Molekul — парижский техно-лейбл, основанный в 2016 году. Среди артистов — AIROD, Lucass P, DJ Physical и Blame The Mono."
+  },
+  "molekl": {
+    "name": "Molekul",
+    "bio": "Molekul — парижский техно-лейбл, основанный в 2016 году. Среди артистов — AIROD, Lucass P, DJ Physical и Blame The Mono."
+  },
+  "movingpressure": {
+    "name": "Moving Pressure",
+    "bio": "Moving Pressure — лейбл британского диджея и продюсера Rene Wise, запущенный в 2024 году. Он посвящён связи саундсистемной музыки, звука и движения."
+  },
+  "nplex": {
+    "name": "n-PLEX",
+    "bio": "n-PLEX — лейбл берлинского дуэта Sid и Eddy, известных как Schwefelgelb. На нём выходят пластинки Schwefelgelb, в том числе совместные с Öspiel."
+  },
+  "arma": {
+    "name": "Arma",
+    "bio": "Arma — лейбл команды московского клуба Arma17, который уже закрыт. Иногда его называют Arma Records. Среди артистов — Vakula, Andrey Zots и Hypnobeat."
+  },
+  "craigieknowes": {
+    "name": "Craigie Knowes",
+    "bio": "Craigie Knowes — лейбл из Перта в Шотландии, сооснователи — Mitch Hunter и Max Spittal."
+  },
+  "fanzine": {
+    "name": "Fanzine",
+    "bio": "Fanzine — испанский лейбл электро и техно. Среди артистов — Roi, Nullptr, HD Substance и Carl Finlow."
+  },
+  "furthurelectronix": {
+    "name": "Furthur Electronix",
+    "bio": "Furthur Electronix — лейбл, основанный Anil Lal (spa5tik0lonz) и художником Majkel. Среди артистов — Brainwaltzera, Junq, Scanone и Cignol."
+  },
+  "furtherelectronix": {
+    "name": "Furthur Electronix",
+    "bio": "Furthur Electronix — лейбл, основанный Anil Lal (spa5tik0lonz) и художником Majkel. Среди артистов — Brainwaltzera, Junq, Scanone и Cignol."
+  },
+  "hoarder": {
+    "name": "Hoarder",
+    "bio": "Hoarder — лейбл из Украины, дистрибуция — через нидерландскую Memoria Distribution. Среди артистов — Sun Archive, Andrea Caioni и Viktor Udvari."
+  },
+  "lunarorbiterprogram": {
+    "name": "Lunar Orbiter Program",
+    "bio": "Lunar Orbiter Program — британский лейбл электро, основанный Mr. Blatman. Среди артистов — 051 Destroyer, Torai, CEM3340 и сам Mr. Blatman."
+  },
+  "primalinstinct": {
+    "name": "Primal Instinct",
+    "bio": "Primal Instinct — берлинский техно-лейбл, основанный дуэтом Funk Assault. Среди артистов — Funk Assault, Alarico, Chlär и Maoh."
+  },
+  "rotterdamelectronix": {
+    "name": "Rotterdam Electronix",
+    "bio": "Rotterdam Electronix — лейбл электронной музыки из Роттердама. Среди артистов — Betek, Fractions, Crossover Network и Exhausted Modern."
+  },
+  "schatrax": {
+    "name": "Schatrax",
+    "bio": "Schatrax — лейбл британского продюсера Josh Brent, он же пишет музыку для одноимённой серии. Среди изданий — в том числе переиздания ранних вещей в серии «Vintage Vinyl»."
+  },
+  "tsarskoyeselo": {
+    "name": "Tsarskoye Selo",
+    "bio": "Tsarskoye Selo — лейбл анонимного техно-продюсера Chaotic Discord. С 2019 года на нём выходят только виниловые пластинки, звук — минимал-техно."
+  },
+  "turbo": {
+    "name": "Turbo",
+    "bio": "Turbo — канадский лейбл техно, электро и хауса, основанный Tiga (Tiga Sontag) в Монреале в 1998 году."
+  },
+  "vault": {
+    "name": "Vault",
+    "bio": "Vault — лейбл амстердамской техно-организации Vault Sessions. Среди артистов — Chontane, Setaoc Mass, Stef Mendesidis и Toobris."
+  },
+  "alteredcircuits": {
+    "name": "Altered Circuits",
+    "bio": "Altered Circuits — лейбл из Брюсселя. Среди артистов — Innershades, Betonkust, DMX Krew и Legowelt."
+  },
+  "apnea": {
+    "name": "Apnea",
+    "bio": "Apnea — мадридский лейбл глубокой электроники, которым руководит Imek. Среди артистов — Alex Under, Tadeo, Versalife и E.R.P."
+  },
+  "barrecords": {
+    "name": "BAR Records",
+    "bio": "BAR Records — роттердамский лейбл Jetti Steffers и Sjoerd Post, дистрибуция — через Clone. Он вырос из клуба BAR Rotterdam, открытого в 2013 году и закрытого в 2019-м. Среди артистов — Teslasonic, JEANS, Betonkust и Zombies In Miami."
+  },
+  "badmanners": {
+    "name": "Bad Manners",
+    "bio": "Bad Manners — лейбл Marcel Dettmann, запущенный в 2019 году. Первый номер каталога BM 1 был футболкой в магазине лейбла. Среди артистов — Orlando Voorn, Gesloten Cirkel, Exterminador и Anthony Rother."
+  },
+  "clergy": {
+    "name": "Clergy",
+    "bio": "Clergy — манчестерский техно-лейбл, основанный в 2015 году. Среди артистов — Cleric, Kwartz, Wrong Assessment и Roll Dann."
+  },
+  "furthersessions": {
+    "name": "Fur:ther Sessions",
+    "bio": "Fur:ther Sessions — техно-лейбл из Бад-Кольгруба в Германии. С 2015 года Chuha проводил одноимённые вечеринки, в 2021 году из них вырос лейбл. Звук — от эмбиента до более жёсткого техно. Среди артистов — Save Your Atoll, Polygonia, MTRL и Na Nich."
+  },
+  "hoary": {
+    "name": "HOARY",
+    "bio": "HOARY — лейбл из Украины, запущенный в 2019 году. Среди артистов — Pra Jescu, Diwag и Jake Flory."
+  },
+  "key": {
+    "name": "KEY",
+    "bio": "Key Vinyl — техно-лейбл итальянского диджея и продюсера Freddy K, который занимается техно с 1990-х и связан с берлинской сценой. Среди артистов — Ausgang, Conrad Van Orton, Ctrls и Eduardo De La Calle."
+  },
+  "ksr": {
+    "name": "KSR",
+    "bio": "KSR — техно-лейбл, который в 2018 году запустил итальянский диджей и продюсер Kaiser (Gianluca Caiati); сейчас лейбл базируется в Берлине. Среди артистов — Kaiser, Augusto Taito и Justyn Nell."
+  },
+  "klassewrecks": {
+    "name": "Klasse Wrecks",
+    "bio": "Klasse Wrecks — лейбл из района Сёнвань в Гонконге, им руководят Luca Lozano и Mr. Ho; компания — Shan Ping Ltd. Среди артистов — Mr. Ho, Luca Lozano, Privacy и Roza Terenzi."
+  },
+  "metroplex": {
+    "name": "Metroplex",
+    "bio": "Metroplex — детройтский лейбл, основанный Juan Atkins в 1985 году. За ним последовали Transmat и KMS. Среди артистов — Model 500, Eddie Fowlkes и Channel One."
+  },
+  "nousklaer": {
+    "name": "Nous Klaer",
+    "bio": "Nous'klaer Audio — независимый лейбл из Роттердама. Среди артистов — Martinou, Oceanic, Eversines, а из нашего каталога — Lenxi, Mata Disk и Nikos."
+  },
+  "nousklaeraudio": {
+    "name": "Nous Klaer",
+    "bio": "Nous'klaer Audio — независимый лейбл из Роттердама. Среди артистов — Martinou, Oceanic, Eversines, а из нашего каталога — Lenxi, Mata Disk и Nikos."
+  },
+  "primordialstate": {
+    "name": "Primordial State",
+    "bio": "Primordial State — лейбл из Дюссельдорфа, основанный и курируемый Sven Eickhoff и Markus Suckut. Среди артистов — Markus Suckut, Kaan Pirecioglu и Exit To Tomorrow."
+  },
+  "renegademethodz": {
+    "name": "Renegade Methodz",
+    "bio": "Renegade Methodz — лейбл из Салоник, которым руководит Endlec. Среди артистов — Endlec, JSPRV35, Oliver Rosemann и Eluna Vex."
+  },
+  "sonicgroove": {
+    "name": "Sonic Groove",
+    "bio": "Sonic Groove — лейбл техно, эйсида, индастриала и EBM, основанный Adam X в Нью-Йорке в 1995 году. С 2007 по 2024 год он базировался в Берлине, затем вернулся в Нью-Йорк. Среди артистов — Adam X, Frankie Bones, Orphx и Damon Wild."
+  },
+  "tigerweeds": {
+    "name": "Tiger Weeds",
+    "bio": "Tiger Weeds — афинский лейбл, в основном выпускает электро. Среди артистов — DVS NME, Noamm, Zobol и Teslasonic."
+  },
+  "undergroundresistance": {
+    "name": "Underground Resistance",
+    "bio": "Underground Resistance — детройтский техно-коллектив и лейбл, выпускающий музыку с 1990 года. С 2005 года лейблом управляет Cornelius Harris, дистрибуция идёт через Submerge. Среди проектов — сам UR, X-101, X-102 и DJ Rolando."
+  },
+  "void1": {
+    "name": "Void+1",
+    "bio": "Void+1 — электронный техно-лейбл из Турина. Среди артистов — Scalameriya, Perc, Exium и Tensal."
+  },
+  "voxnox": {
+    "name": "Voxnox",
+    "bio": "Voxnox — берлинский техно-лейбл, основанный в 2013 году братьями Fabio и Silvio Venezia. Среди артистов — Alignment, Sept, Brothers Black и Lars Huismann."
+  },
+  "k7": {
+    "name": "!K7",
+    "bio": "!K7 Records — берлинский лейбл, запущенный в 1996 году компанией Stud!o K7 параллельно с серией миксов DJ-Kicks. Среди артистов — Kruder & Dorfmeister, Modeselektor, а из серии DJ-Kicks — DJ Koze и Moodymann."
+  },
+  "30dexoplanets": {
+    "name": "30D ExoPlanets",
+    "bio": "30D ExoPlanets — саблейбл 30D Records. Среди артистов — Terrence Dixon, Arpanet, Denise Rabe и Univac."
+  },
+  "animalia": {
+    "name": "Animalia",
+    "bio": "Animalia — мелбурнский лейбл, появившийся в 2020 году; его курирует Kia. Среди артистов — Andy Martin и Coloursound."
+  },
+  "aquaregia": {
+    "name": "Aquaregia",
+    "bio": "Aquaregia — канадский лейбл эйсид-техно, основанный в декабре 2015 года. Среди артистов — Téo Dréan, Blazej Malinowski и Troma."
+  },
+  "arsenik": {
+    "name": "Arsenik",
+    "bio": "Arsenik — шведский лейбл, основанный в 2015 году диджеями и продюсерами Patrik Eriksson (Dold) и Marcus Pengermaa (Kuf). Среди артистов — Dold, Kuf и Savas Pascalidis."
+  },
+  "axis": {
+    "name": "Axis",
+    "bio": "Axis — американский техно-лейбл, основанный Jeff Mills в 1992 году. Среди артистов — сам Mills, а также его проекты Millsart, H&M и X-103."
+  },
+  "bakk": {
+    "name": "BAKK",
+    "bio": "BAKK — лейбл из Гааги, которым вместе руководят Nic, Thomas и Ruben; позже он также связан с именем Plafond. Те же люди ведут лейбл Rubber. Среди артистов — Legowelt, SFV Acid и Jeremiah R."
+  },
+  "bliq": {
+    "name": "Bliq",
+    "bio": "Bliq — лондонский лейбл, основанный в 2010 году; им руководят Manos Mara и Bu$$. Среди артистов — Lowjac, Deemonlover, DJ Loser и Exos."
+  },
+  "danceonthebeat": {
+    "name": "Dance On The Beat",
+    "bio": "Dance On The Beat — итальянский лейбл, занимается переизданиями. Среди релизов — BBE и Captain Hollywood Project."
+  },
+  "detuned": {
+    "name": "De:Tuned",
+    "bio": "De:tuned — бельгийский лейбл и организатор вечеринок, основанный в 2009 году Ruben Boons и Bert Hermans. Среди артистов — Nuron, B12, Humanoid и Luke Vibert."
+  },
+  "dolly": {
+    "name": "Dolly",
+    "bio": "Dolly — лейбл, которым владеет Steffi. Среди артистов — Brooks Mosher, Basic Soul Unit и Jacob Korn."
+  },
+  "emc": {
+    "name": "EMC",
+    "bio": "Electro Music Coalition (EMC) начинался как российский лейбл, затем стал немецко-нидерландским; с 2017 года входит в Flatlife Records Labelgroup. Среди артистов — Sinitsin, Lectromagnetique и Konerytmi."
+  },
+  "fallingethics": {
+    "name": "Falling Ethics",
+    "bio": "Falling Ethics — лейбл, основанный в 2013 году. Среди артистов — P.E.A.R.L., Oscar Mulero, Umwelt, а из нашего каталога — Sev Dah и dc11."
+  },
+  "flyance": {
+    "name": "Flyance",
+    "bio": "Flyance Records — парижский лейбл электронной музыки, основанный в 2014 году Ka One и St-Sene. Звук — эйсид, хаус и глубокое техно. Среди артистов — KAS:ST, Głós и HVL."
+  },
+  "frustratedfunk": {
+    "name": "Frustrated Funk",
+    "bio": "Frustrated Funk — роттердамский лейбл электронной музыки, основанный Wilco Klen van Bennekom (Klen). Среди артистов — Der Zyklus, Marco Bernardi и Silicon."
+  },
+  "hayes": {
+    "name": "HAYES",
+    "bio": "HAYES — португальский техно-лейбл, которым в том числе руководит Autrane. Среди артистов — Temudo, Nørbak, а из нашего каталога — Fresko и Quelza."
+  },
+  "hyperdub": {
+    "name": "Hyperdub",
+    "bio": "Hyperdub — британский лейбл, которым с 2004 года руководит музыкант Kode9. Среди артистов — Burial, Kode9 и The Spaceape."
+  },
+  "juuz": {
+    "name": "JUUZ",
+    "bio": "JUUZ — будапештский лейбл андеграундного хауса, микрохауса, роминимала и даб-техно. Среди артистов — Chris Llopis."
+  },
+  "leyla": {
+    "name": "Leyla",
+    "bio": "Leyla — амстердамский техно-лейбл. Среди артистов — Manni Dee, Rommek, Positive Centre и Pfirter."
+  },
+  "mindmedizin": {
+    "name": "Mind Medizin",
+    "bio": "Mind Medizin — техно-лейбл из Торонто и Берлина, им владеет Lady Tazz. Среди артистов — Lady Tazz, Audio Units, Cari Lekebusch и Benjamin Damage."
+  },
+  "moustacherecords": {
+    "name": "Moustache Records",
+    "bio": "Moustache Records — роттердамский лейбл, основанный David Vunk в 2007 году. Среди артистов — сам David Vunk, Martin Matiske и Im Kellar."
+  },
+  "nobodysbizzness": {
+    "name": "Nobodys Bizzness",
+    "bio": "Nobody's Bizzness — лейбл Miss Kittin. Среди артистов — она сама и дуэт Miss Kittin & The Hacker."
+  },
+  "protez": {
+    "name": "Protez",
+    "bio": "Pro-tez Records — лейбл Anton Kubikov из Москвы и Ed Vertov из Лос-Анджелеса вместе с Maxim Milutenko, запущенный в 2005 году. Среди артистов — SCSI-9, Mujuice, Korablove и сам Kubikov."
+  },
+  "semantica": {
+    "name": "Semantica",
+    "bio": "Semantica — мадридский лейбл техно и IDM, которым с 2006 года владеет Svreca. Среди артистов — Svreca, Vladislav Delay, E.R.P. и Silent Servant."
+  },
+  "smallville": {
+    "name": "Smallville",
+    "bio": "Smallville — гамбургский лейбл, связанный с одноимённым магазином пластинок: магазин основали в 2005 году, он закрылся в 2021-м. Раньше лейблом руководили Steinhoff и Just von Ahlefeld. Среди артистов — Christopher Rau, STL, Smallpeople и Lawrence."
+  },
+  "soiree": {
+    "name": "Soiree",
+    "bio": "Soiree Records International — лейбл, основанный в 1990 году Derrick Thompson. Он выпускает глубокий хаус и ночную электронику. Среди артистов — Drivetrain, Rennie Foster и Scott Grooves."
+  },
+  "somov": {
+    "name": "Somov",
+    "bio": "Somov Records — берлинский лейбл электронной музыки, основанный Ignez. Среди артистов — сам Ignez, Sterac и Justin Berkovi."
+  },
+  "sublunar": {
+    "name": "Sublunar",
+    "bio": "Sublunar — лейбл, основанный в 2017 году; один из основателей — Dagdrom. Среди артистов — Sciahri, Cirkle и Bidoben."
+  },
+  "symbolism": {
+    "name": "Symbolism",
+    "bio": "Symbolism — техно-лейбл, основанный Ben Sims. Среди артистов — Aural Emote, Exos, Hiroaki Iizuka и Reeko."
+  },
+  "taapion": {
+    "name": "Taapion",
+    "bio": "Taapion — парижский техно-лейбл, основанный в 2013 году; им руководят AWB, PVNV и Shlømo. Среди артистов — они сами, а также Hadone."
+  },
+  "undefined": {
+    "name": "Undefined",
+    "bio": "Undefined Music — амстердамский лейбл, основанный в 2015 году. У него есть линейка Undefined Tales. Среди артистов — Mariin и Paradroid."
+  },
+  "uppersanddowners": {
+    "name": "Uppers and Downers",
+    "bio": "Uppers and Downers — берлинский лейбл, которым руководит Dr. Rubinstein. Среди артистов — сама Dr. Rubinstein и Dave N.A."
+  },
+  "wickedbass": {
+    "name": "Wicked Bass",
+    "bio": "Wicked Bass — лейбл и вечеринка из Киева, которыми руководит Noizar. Среди артистов — Innershades, Parris Mitchell, Hüpnosaurus и Huerco S."
+  },
+  "aboutblank": {
+    "name": "about blank",
+    "bio": "about blank — лейбл берлинского клуба ://about blank. Среди релизов серии — пластинки с участием Fabrizio Lapiana, Samuli Kemppi, Iron Curtis и Daniela La Luz."
+  },
+  "deepsleeprobot": {
+    "name": "Deep Sleep Robot",
+    "bio": "Deep Sleep Robot — лейбл из Нью-Йорка, который выпускает неизданные и малоизвестные записи 1990–2004 годов."
+  },
+  "sideb": {
+    "name": "Side B",
+    "bio": "SIDE B — лейбл электронной музыки из Лиссабона. Среди артистов — DJ Dextro, Rkeat и A.Morgan."
+  },
+  "discosatonicos": {
+    "name": "Discos Atonicos",
+    "bio": "Discos Atónicos — лейбл, который в 2017 году основала Alienata. Среди артистов — Artificiero, Dez Williams и сама Alienata."
+  },
+  "savy": {
+    "name": "Savy",
+    "bio": "Sävy (в каталоге — Savy) — лейбл финской диджея и продюсера IDA, которая живёт в Шотландии. В программе — техно, электро, брейки и другая танцевальная музыка; среди артистов — сама IDA, Ryan James Ford и Farron."
+  },
+  "nsda": {
+    "name": "NSDA",
+    "bio": "N:S:DA (NSDA) — лейбл электронной музыки из Неаполя, основанный в декабре 2020 года диджеем и продюсером Anfisa Letyago. Среди артистов — сама Letyago, Unfinished Portraits и Reform."
+  },
+  "warp": {
+    "name": "WARP",
+    "bio": "Warp (Warp Records) — британский лейбл электронной музыки, основанный Steve Beckett, Rob Mitchell и Robert Gordon. Долгое время он работал в Шеффилде, затем переехал в Лондон. Среди артистов — Aphex Twin, Autechre, Nightmares On Wax и Speedy J."
+  },
+  "drawnerrecords": {
+    "name": "Drawner Records",
+    "bio": "Drawner Records — лейбл электронной музыки и техно из Берлина. Среди артистов — Kuss, Zisko и Arkan."
+  },
+  "warg": {
+    "name": "Warg",
+    "bio": "Warg (Warg Records) — техно-лейбл из Мельбурна. Среди артистов — Arnaud Le Texier, Sera J, Arkane и Gary Beck."
+  },
+  "outcastplanet": {
+    "name": "Outcast Planet",
+    "bio": "Outcast Planet — лейбл и вечеринка электронной музыки из Турина. Среди артистов — Paolo Macrì, Cristian Sarde и Bakked."
+  },
+  "pleistocenefuture": {
+    "name": "Pleistocene Future",
+    "bio": "Pleistocene Future — техно-лейбл, который в 2022 году основал в Схидаме диджей Maarten Lammers, известный как Forkowski. Среди артистов — DJ Savage, Bas Mooy и Dynamic Forces."
+  },
+  "bassagenda": {
+    "name": "Bass Agenda",
+    "bio": "Bass Agenda (Bass Agenda Recordings) — британский лейбл электро и техно, основанный в 2013 году. Среди артистов — Lectromagnetique, w1b0, Franck Kartell и Mike Ash."
+  },
+  "oblique": {
+    "name": "Oblique",
+    "bio": "Oblique (Oblique Music) — лейбл из Роттердама, основанный в 2016 году Ben Buitendijk. Среди артистов — сам Buitendijk, Deniro и Emmanuel Top."
+  },
+  "lostcontrol": {
+    "name": "Lost Control",
+    "bio": "Lost Control — лейбл электронной музыки из Берлина. Среди артистов — Black Eyes, Orlando Voorn и Cygnus."
+  },
+  "analogicalforce": {
+    "name": "Analogical Force",
+    "bio": "Analogical Force — независимый лейбл из Мадрида, которым руководит Pervert. Среди артистов — D'Arcangelo, Anodyne и Pye Corner Audio."
+  },
+  "artreform": {
+    "name": "Artreform",
+    "bio": "Artreform — украинский лейбл, которым руководит диджей и продюсер Joss; студия лейбла находится в Киеве. В каталоге — tech-house, deep house и techno; среди артистов — сам Joss, iO и Robot Needs Oil."
+  },
+  "selfreflektion": {
+    "name": "Self Reflektion",
+    "bio": "Self Reflektion — роттердамский техно-лейбл, работающий с 2014 года. Среди артистов — Remco Beekwilder, Hiroaki Iizuka и Stranger."
+  },
+  "omnidisc": {
+    "name": "Omnidisc",
+    "bio": "Omnidisc — лейбл майамского диджея и продюсера Danny Daze. Среди артистов — сам Daze, Drvg Cvltvre, James Zabiela и David Vunk."
+  },
+  "lifeinpatterns": {
+    "name": "Life In Patterns",
+    "bio": "Life In Patterns — лейбл электронной музыки, основанный в Кёльне и теперь базирующийся в Париже; им руководит Ferdinger. Среди артистов — сам Ferdinger, ANNĒ и Sera J."
+  },
+  "mannequin": {
+    "name": "Mannequin",
+    "bio": "Mannequin — лейбл, который в 2008 году основали в Риме Alessandro Adriani и Carlo Cassaro; с 2012 года он базируется в Берлине. Среди ранних артистов — Martial Canterel, Tobias Bernstrup и Led Er Est."
+  },
+  "spaziomagnetco": {
+    "name": "Spazio Magnetco",
+    "bio": "Spazio Magnetico (в каталоге — Spazio Magnetco) — независимый техно-лейбл и подкаст-серия D/n; в программе — techno, dub, ambient и IDM. Среди артистов — сам D/n, WHM и Clarence Rise."
+  },
+  "virgin": {
+    "name": "Virgin",
+    "bio": "Virgin — британский лейбл, который в начале 1970-х основал в Лондоне Richard Branson; сначала это была независимая компания. У Virgin выходил альбом ремиксов Daft Club дуэта Daft Punk."
+  },
+  "digcurated": {
+    "name": "DIG Curated",
+    "bio": "DIG Curated — берлинский саблейбл лейбла Dust in Grooves (DIG). Его в 2024 году основали Chami и Olivia Mendez. Среди артистов — DHÆÜR, Uväll и Daniel[i]."
+  },
+  "limousinedream": {
+    "name": "Limousine Dream",
+    "bio": "Limousine Dream — лейбл, которым руководит Gene On Earth. Среди артистов — сам Gene On Earth, Sweely и Brennan."
+  },
+  "wavefunction": {
+    "name": "Wave Function",
+    "bio": "Wave Function — мальтийский виниловый лейбл, которым руководит Sound Synthesis. Среди артистов — сам Sound Synthesis, Zeta Reticula, Vertical67 и Zobol."
+  },
+  "cocoon": {
+    "name": "Cocoon",
+    "bio": "Cocoon (Cocoon Recordings) — немецкий техно-лейбл, основанный Sven Väth. Среди артистов — сам Väth, Steve Bug, Frank Lorber и Ricardo Villalobos."
+  },
+  "illegalalien": {
+    "name": "Illegal Alien",
+    "bio": "Illegal Alien (Illegal Alien Records) — мексиканский лейбл, основанный в 2007 году Ricardo Garduno. Среди артистов — сам Garduno и Andre Ramos."
+  },
+  "pampa": {
+    "name": "Pampa",
+    "bio": "Pampa (Pampa Records) — лейбл, который в 2009 году основали Stefan Kozalla (DJ Koze) и Marcus Fink. Среди артистов — DJ Koze, Axel Boman, Isolée и Robag Wruhme."
+  },
+  "xkalay": {
+    "name": "X-Kalay",
+    "bio": "X-Kalay — берлинский лейбл, которым руководит Sam Astbury. Среди артистов — No Moon, Rudolf C и Pearl River Sound."
+  },
+  "rekids": {
+    "name": "Rekids",
+    "bio": "Rekids — лейбл электронной музыки, который в 2006 году основали Matt Edwards (Radio Slave) и James Masters; с 2015 года им руководит Edwards. Среди артистов — Radio Slave, Matt O'Brien, Spencer Parker и Mr. G."
+  },
+  "allnicerecords": {
+    "name": "All Nice Records",
+    "bio": "All Nice Records — независимый лейбл, который в 2024 году основали João Caldeira и Gonçalo Salgado. Среди артистов — Legowelt, Lake Haze, DJ Overdose и Simoncino."
+  },
+  "strengthmusic": {
+    "name": "Strength Music",
+    "bio": "Strength Music (Strength Music Recordings) — американский лейбл хауса и техно, основанный в 2005 году DJ Qu. Среди артистов — сам DJ Qu, Fred P. и Jus-Ed."
+  },
+  "planetx": {
+    "name": "Planet X",
+    "bio": "Planet X — исландский лейбл, которым руководит Exos. Среди артистов — сам Exos, LaFontaine и Gotshell."
+  },
+  "solaronemusic": {
+    "name": "Solar One Music",
+    "bio": "Solar One Music — немецкий лейбл из Йены, который в 2006 году основали Nico Jagiella и Robert Witschakowski. Среди артистов — Crotaphytus, The Exaltics и Komarken Electronics."
+  },
+  "dustworld": {
+    "name": "Dust World",
+    "bio": "Dust World (DustWORLD) — лейбл из Монреаля, основанный в 2019 году; его курирует Dust-e-1. Среди артистов — сам Dust-e-1, Priori и Big Zen."
+  },
+  "enemy": {
+    "name": "Enemy",
+    "bio": "Enemy (Enemy Records) — берлинский техно-лейбл, основанный и курируемый Dustin Zahn. Среди артистов — сам Zahn, Decimal, Joel Mull и Mihalis Safras."
+  },
+  "absysrecords": {
+    "name": "Absys Records",
+    "bio": "Absys Records — лейбл электронной музыки из Дублина, который в 2008 году основал Sho. Среди артистов — Hatti Vatti и Nuage."
+  },
+  "kms": {
+    "name": "KMS",
+    "bio": "KMS (KMS Records) — детройтский техно-лейбл, основанный в 1987 году Kevin Saunderson; название складывается из его инициалов Kevin Maurice Saunderson. Дистрибуция шла через Submerge. Среди артистов — Inner City, Reese & Santonio, Blake Baxter и Chez Damier."
+  },
+  "harbourcitysorrow": {
+    "name": "Harbour City Sorrow",
+    "bio": "Harbour City Sorrow — нидерландский лейбл электронной музыки. Среди артистов — Duplex, E.R.P., Population One и Marco Bernardi."
+  },
+  "bpitchcontrol": {
+    "name": "Bpitch Control",
+    "bio": "Bpitch Control (BPitch Control) — берлинский лейбл электро и техно, которым владеет Ellen Allien. Среди артистов — сама Allien, Paul Kalkbrenner и Toktok."
+  },
+  "palinoia": {
+    "name": "Palinoia",
+    "bio": "Palinoia — лейбл, который в 2016 году основал и курирует Eric Cloutier. Среди артистов — сам Cloutier, Donato Dozzy, Exercise One и Quelza."
+  },
+  "ebrex": {
+    "name": "EB_REX",
+    "bio": "EB_REX (EB-REX) — берлинский техно-лейбл, который в 2024 году основала Estella Boersma."
+  },
+  "lemos": {
+    "name": "Lemos",
+    "bio": "Lemos — нью-йоркский техно-лейбл Fadeface. Среди артистов — сам Fadeface и More Influenza."
+  },
+  "axisofpeople": {
+    "name": "Axis of People",
+    "bio": "Axis of People — лейбл, который в 2024 году основал и курирует Fantastic Man. Среди артистов — сам Fantastic Man и Andy Hart."
+  },
+  "holisticorecords": {
+    "name": "Holistico Records",
+    "bio": "Holístico Records (в каталоге — Holistico Records) — объединение диджеев и продюсеров из Монтевидео, базируется в Барселоне. Среди артистов — Federico Lijtmaer, Vittorio Pagani и Santi Avg."
+  },
+  "robotsrevenge": {
+    "name": "Robots Revenge",
+    "bio": "Robots Revenge — лейбл Yazeed Abul-Ata (ERTH). Среди артистов — Sound Synthesis, FFriend и Luminatus XV."
+  },
+  "text": {
+    "name": "Text",
+    "bio": "Text (Text Records) — лейбл Kieran Hebden, известного как Four Tet. Среди артистов — сам Four Tet, Fridge, One Little Plane и совместные работы с Burial."
+  },
+  "freundderfamilie": {
+    "name": "Freund Der Familie",
+    "bio": "Freund Der Familie — берлинский лейбл электронной музыки, который в 2007 году основали Klaus Rakete и Mirko Drommer; издания выходят ограниченным тиражом на виниле. Среди артистов — сам Freund Der Familie и Boytalk."
+  },
+  "jumpinpumpin": {
+    "name": "Jumpin & Pumpin",
+    "bio": "Jumpin' & Pumpin' — британский независимый лейбл (1989–2016), часть группы Passion Music. Здесь выходили ранние работы The Future Sound Of London, в том числе Papua New Guinea; среди других артистов — Genaside II и Humanoid."
+  },
+  "ogewhite": {
+    "name": "OGE White",
+    "bio": "OGE White — саблейбл лейбла OGE, предназначенный для белых этикеток на 12-дюймовом виниле."
+  },
+  "orbitaloscillation": {
+    "name": "Orbital Oscillation",
+    "bio": "Orbital Oscillation — лейбл из Тбилиси; в программе — funk, tribal и groove-techno. Среди артистов — Gina Demarchi и CucaRafa."
+  },
+  "fafo": {
+    "name": "Fafo",
+    "bio": "Fafo (FAFO Records) — чилийский лейбл, основанный в 2020 году и базирующийся в Сиднее. Среди артистов — Giorgio Robles и Cirkel Square."
+  },
+  "knotweed": {
+    "name": "Knotweed",
+    "bio": "Knotweed (Knotweed Records) — французский лейбл из Шамони, которым владеет и руководит Philippe Petit. Среди артистов — сам Petit, Myk Derill и Hydergine."
+  },
+  "cocoonrecords": {
+    "name": "Cocoon Records",
+    "bio": "Cocoon (Cocoon Recordings) — немецкий техно-лейбл, основанный Sven Väth. Среди артистов — сам Väth, Steve Bug, Frank Lorber и Ricardo Villalobos."
+  },
+  "oaks": {
+    "name": "Oaks",
+    "bio": "Oaks — берлинский лейбл, основанный в 2016 году; им руководит Héctor Oaks. Среди артистов — сам Oaks, Takaaki Itoh и Anetha."
+  },
+  "barba": {
+    "name": "Barba",
+    "bio": "Barba (Barba Records) — хорватский лейбл техно, хауса и электро. Среди артистов — FBK, Erell Ranson, Heinrich Dressel и Marco Bernardi."
+  },
+  "aniara": {
+    "name": "Aniara",
+    "bio": "Aniara (Aniara Recordings) — лейбл хауса и deep house из Гётеборга, основанный в 2010 году; им руководит Fabian Bruhn. Среди артистов — Genius Of Time, Dorisburg и Birds Ov Paradise."
+  },
+  "voyagedirect": {
+    "name": "Voyage Direct",
+    "bio": "Voyage Direct — нидерландский лейбл, который курирует Tom Trago; первый релиз вышел в 2009 году. Среди артистов — сам Trago, Dexter, Awanto 3, William Kouam Djoko и Legowelt."
+  },
+  "spacelab": {
+    "name": "space lab",
+    "bio": "space lab — лейбл progressive trance и deep techno из Бристоля. Среди артистов — Quiet Men, Adam Pits и Forest On Stasys."
+  },
+  "midgar": {
+    "name": "Midgar",
+    "bio": "Midgar — независимый лейбл, который основал и которым руководит Severja (Jacopo Severitano). В каталоге — техно, эмбиент, даб и IDM; среди артистов — Wata Igarashi, Ruhig и Retina.it."
+  },
+  "shipwrec": {
+    "name": "Shipwrec",
+    "bio": "Shipwrec — нидерландский лейбл электронной музыки, основанный в 2010 году. Среди артистов — Funckarma, Einóma и DMX Krew."
+  },
+  "radiomatrix": {
+    "name": "Radio Matrix",
+    "bio": "Radio Matrix — лейбл электронной музыки из Фрисландии, основанный в 2014 году Delta Funktionen. Среди артистов — сам Delta Funktionen, Immediate Proximity, VC-118A и Mor Elian."
+  },
+  "vaevictis": {
+    "name": "Vae Victis",
+    "bio": "Vae Victis — итальянский лейбл, основанный в 2011 году. Среди артистов — Blawan, Die Roh, Tessela и The Analogue Cops."
+  },
+  "ostgutton": {
+    "name": "Ostgut Ton",
+    "bio": "Ostgut Ton — лейбл берлинского клуба Berghain. Среди артистов — Marcel Dettmann, Ben Klock, Marcel Fengler и Cassy."
+  },
+  "outofplace": {
+    "name": "Out Of Place",
+    "bio": "Out Of Place — хорватский лейбл, основанный в 2015 году. Среди артистов — Insolate, Rove Ranger, Volster и ANNĒ."
+  },
+  "abstracttheory": {
+    "name": "Abstract Theory",
+    "bio": "Abstract Theory — итальянский лейбл электронной музыки, который в 2010 году основали Francesco Bonora и Marcello Arletti. Среди артистов — Francesco Bonora, Terrence Parker и Itamar Sagi."
+  },
+  "lesenfantsrecords": {
+    "name": "Les Enfants Records",
+    "bio": "Les Enfants Records — лейбл барселонского клуба Les Enfants Brillants. Среди артистов — Per Hammar, Janeret и Fabe."
+  },
+  "kooky": {
+    "name": "Kooky",
+    "bio": "Kooky (Kooky Music) — лейбл техно и хауса из Вроцлава; им владеют Gogan и SchrillDJ. Среди артистов — Gogan, Loopdeville и Gary Holldman."
+  },
+  "smilesessions": {
+    "name": "Smile Sessions",
+    "bio": "Smile Sessions — лейбл берлинского продюсера и диджея JKS. Среди артистов — сам JKS, Lacchesi и Jacidorex."
+  },
+  "treats": {
+    "name": "treats",
+    "bio": "treats — саблейбл лейбла трип. Среди артистов на издании в нашем каталоге — João Lágrima de Ouro и Nina Kraviz."
+  },
+  "10records": {
+    "name": "10 Records",
+    "bio": "10 Records — лейбл, основанный в 1983 году; до 1990 года на этикетке внутри нуля стоял логотип Virgin. Среди артистов — Inner City и Soul II Soul."
+  },
+  "anagram": {
+    "name": "Anagram",
+    "bio": "Anagram — амстердамский техно-лейбл. Среди артистов — Sinfol, Elad Magdasi и Octual."
+  },
+  "suddwax": {
+    "name": "Sudd Wax",
+    "bio": "Sudd Wax (Sudd WAX) — бразильский лейбл электроники, хауса и deep house. Среди артистов — Gari Romalis, Norm Talley, Rick Wade и Santonio Echols."
+  },
+  "endofdayz": {
+    "name": "End Of Dayz",
+    "bio": "End Of Dayz — в основном техно-лейбл из Барселоны, которым руководит Dj Bruce Lee; он связан с местным магазином Rhythm Control. Среди артистов — Ro!, NX1, Aiken и P.E.A.R.L."
+  },
+  "amenthia": {
+    "name": "Amenthia",
+    "bio": "Amenthia (amenthia recordings) — независимый лейбл из Базеля, которым руководят Garçon и Agonis. Среди артистов — Agonis, Healing Force Project и Konduku."
+  },
+  "beasone": {
+    "name": "Be As One",
+    "bio": "Be As One — лейбл, основанный Shlomi Aber: он начался в Тель-Авиве и теперь базируется в Барселоне. Среди артистов — сам Aber, Gel Abril, Itamar Sagi и Samuel L Session."
+  },
+  "sexyrecs": {
+    "name": "Sexyrecs",
+    "bio": "Sexyrecs — берлинский техно-лейбл, которым руководит Laure Croft."
+  },
+  "prspct": {
+    "name": "PRSPCT",
+    "bio": "PRSPCT (PRSPCT Recordings) — роттердамский лейбл, которым руководит Thrasher."
+  },
+  "dieorakel": {
+    "name": "Die Orakel",
+    "bio": "Die Orakel — франкфуртский лейбл электронной музыки Oliver Hafenbauer. Среди артистов — upsammy, Edward и Roman Flügel."
+  },
+  "positivesource": {
+    "name": "+positivesource",
+    "bio": "+positivesource — берлинский техно-лейбл, который в июне 2021 года основали Philippa Pacho и Blue Hour."
+  },
+  "hayal": {
+    "name": "Hayal",
+    "bio": "Hayal — берлинский лейбл, основанный в 2026 году Ruben Üvez, известным как Konduku."
+  },
+  "avoidant": {
+    "name": "Avoidant",
+    "bio": "Avoidant — британский лейбл электронной музыки из Глазго, саблейбл Soma Quality Recordings. Среди артистов — Kronos Device, Carl Finlow и CYRK."
+  },
+  "cycle": {
+    "name": "Cycle",
+    "bio": "Cycle (Cycle Records) — загребский лейбл хауса и техно, которым владеет Jan Kincl. Среди артистов — сам Kincl, MD и Laseech."
+  },
+  "runningback": {
+    "name": "Running Back",
+    "bio": "Running Back — немецкий лейбл хауса и техно, который основали Gerd Janson и Thorsten Scheu; сейчас им руководит Janson. Среди артистов — Move D, Mark E, Radio Slave и Tensnake."
+  },
+  "topikap": {
+    "name": "To Pikap",
+    "bio": "To Pikap (To Pikap Records) — независимый лейбл из Салоник; издания выходят на виниле, кассетах и в цифре. Среди артистов — Pera Sta Ori, Totsouko и Sakis Papadimitriou."
+  },
+  "nightwind": {
+    "name": "Nightwind",
+    "bio": "Nightwind (Nightwind Records) — лейбл, который основал и которым руководит Danny Wolfers. Среди артистов — сам Wolfers, Nomad Ninja и Saab Knutson."
+  },
+  "ndyuka": {
+    "name": "Ndyuka",
+    "bio": "Ndyūkå Rhythms (в каталоге — Ndyuka) — амстердамский лейбл, основанный Marrøn. Среди артистов — Line-o и Toru Ikemoto."
+  },
+  "v35": {
+    "name": "V35",
+    "bio": "V35 — нидерландский техно-лейбл JSPRV35. Среди артистов — сам JSPRV35, Vromo и Hurdslenk."
+  },
+  "pigaomovement": {
+    "name": "Pi Gao Movement",
+    "bio": "Pi Gao Movement — детройтский лейбл электро и техно, которым руководит Ultradyne. Среди артистов — сам Ultradyne, Heinrich Mueller и Lost Trax."
+  },
+  "spaziodisponibile": {
+    "name": "Spazio Disponibile",
+    "bio": "Spazio Disponibile — итальянский лейбл, основанный Donato Dozzy и Neel. Среди артистов — сами Dozzy и Neel (в том числе как Voices From The Lake), Marco Shuttle и Mike Parker."
+  },
+  "kontramusik": {
+    "name": "Kontra Musik",
+    "bio": "Kontra Musik — шведский лейбл электронной музыки из Мальмё, который в 2006 году основал Ulf Eriksson."
+  },
+  "samurai": {
+    "name": "Samurai",
+    "bio": "Samurai (Samurai Music) — берлинский лейбл drum & bass, которым владеет и руководит Geoff Wright, известный как DJ Presha; раньше лейбл базировался в Новой Зеландии. Среди артистов — Klute, Trei и Soul Intent."
+  },
+  "samuraimusic": {
+    "name": "Samurai Music",
+    "bio": "Samurai (Samurai Music) — берлинский лейбл drum & bass, которым владеет и руководит Geoff Wright, известный как DJ Presha; раньше лейбл базировался в Новой Зеландии. Среди артистов — Klute, Trei и Soul Intent."
+  },
+  "minimumsyndicat": {
+    "name": "Minimum Syndicat",
+    "bio": "Minimum Syndicat — французский лейбл acid house, techno и rave, которым руководит одноимённый коллектив. Среди артистов — сам Minimum Syndicat, Umwelt и Shadow Runner."
+  },
+  "primenumbers": {
+    "name": "Prime Numbers",
+    "bio": "Prime Numbers — британский лейбл техно и хауса из Манчестера, основанный Trus'me. Среди артистов — сам Trus'me, Linkwood и Fudge Fingas."
+  },
+  "delft": {
+    "name": "DELFT",
+    "bio": "DELFT — нидерландский лейбл, которым руководит La-4a. Среди артистов — сам La-4a, JPLS и Matrixxman."
+  },
+  "mulen": {
+    "name": "Mulen",
+    "bio": "Mulen (Mulen Records) — киевский лейбл, открытый 21 октября 2011 года; им владеют iO и Tish. Среди артистов — iO, Tish, Pash N Lips и Livio & Roby."
+  },
+  "phoenixg": {
+    "name": "Phoenix G.",
+    "bio": "Phoenix G. — лондонский лейбл, который в 1999 году основал и которым руководит Mr. G. Среди артистов — сам Mr. G и G Flame."
+  },
+  "bcco": {
+    "name": "BCCO",
+    "bio": "BCCO — берлинский техно-лейбл и серия вечеринок. Среди артистов — Kashpitzky, Stef de Haan, Beste Hira и Mython."
+  },
+  "otherpeople": {
+    "name": "Other People",
+    "bio": "Other People — нью-йоркский лейбл, который в августе 2013 года основал Nicolas Jaar на месте своего прежнего импринта. Среди артистов — Darkside и DJ Slugo."
+  },
+  "purehate": {
+    "name": "Pure Hate",
+    "bio": "Pure Hate — берлинский лейбл электронной музыки, работающий с 2020 года. Среди артистов — Slave To Society, Ryuji Takeuchi и Mickey Nox."
+  },
+  "midtown": {
+    "name": "Mid-Town",
+    "bio": "Mid-Town (Mid-Town Records) — нидерландский лейбл хауса, техно и хардкорна, который в 1987 году основали Hans Tieleman и Rene Bakker."
+  },
+  "blueprint": {
+    "name": "Blueprint",
+    "bio": "Blueprint — лейбл, который в 1996 году основали James Ruskin и Richard Polson; первый релиз они записали как Outline. Среди артистов — James Ruskin, Oliver Ho и Surgeon."
+  },
+  "trust": {
+    "name": "Trust",
+    "bio": "Trust — венский электро-лейбл, основанный в 1998 году Georg Lauteren. Среди артистов — Microthol, Urban Tribe, Epy и DJ Glow."
+  },
+  "radici": {
+    "name": "Radici",
+    "bio": "Radici — итальянский лейбл, которым руководят Cristian Sarde и Salvatore Ficara. Среди артистов — Cristian Sarde и Paolo Macrì."
+  },
+  "mood24": {
+    "name": "Mood 24",
+    "bio": "Mood 24 — ирландский лейбл хауса и техно. Среди артистов — Ghini-B, Herck и G.U.S."
+  },
+  "synapticcliffs": {
+    "name": "Synaptic Cliffs",
+    "bio": "Synaptic Cliffs — лейбл Sascha Dornhöfer; он связан с Берлином, Франкфуртом и Барселоной. Среди артистов — pdqb, Scape One и DMX Krew."
+  },
+  "medicalrecords": {
+    "name": "Medical Records",
+    "bio": "Medical Records — сиэтлский лейбл, основанный в 2010 году. Сначала он занимался переизданиями классики конца 1970-х и начала 1980-х: synth-pop, minimal synth, cosmic и italo disco, а также шугейз и dream pop 1990-х; техно и EBM выходят на саблейбле Transfusions. Среди артистов — Alexander Robotnick, Deutsche Wertarbeit, Der Plan и Seefeel."
+  },
+  "phaaar": {
+    "name": "Phaaar",
+    "bio": "Phaaar — лейбл бельгийского техно-диджея и продюсера Phara. Среди артистов — сам Phara и In Glass."
+  },
+  "eartoground": {
+    "name": "EarToGround",
+    "bio": "EarToGround — лондонский техно-лейбл, основанный в 2011 году после серии вечеринок в городе. Среди артистов — Dax J, Gareth Wild и VSK."
+  },
+  "comeme": {
+    "name": "Comeme",
+    "bio": "Cómeme (в каталоге — Comeme) — берлинский лейбл электронной музыки, который в 2009 году основал и которым руководит Matias Aguayo. Среди артистов — сам Aguayo, Rebolledo и Daniel Maloso."
+  },
+  "diffusereality": {
+    "name": "Diffuse Reality",
+    "bio": "Diffuse Reality — лейбл из Буэнос-Айреса, базирующийся в Барселоне. Среди артистов — Oliver Rosemann, Drvg Cvltvre и Roger van Lunteren."
+  },
+  "anotherearth": {
+    "name": "Another Earth",
+    "bio": "Another Earth — виниловый техно-лейбл, который в 2016 году основала нидерландская диджей Esther Duijn."
+  },
+  "vakant": {
+    "name": "Vakant",
+    "bio": "Vakant — лейбл, который в 2004 году основали Alex Knoblauch и Stephan Bolch; с 2009 года им руководит Knoblauch. Среди артистов — Onur Özer, Alex Smoke, Mathias Kaden и Robag Wruhme."
+  },
+  "technology": {
+    "name": "Tech-Nology",
+    "bio": "Tech-Nology — лейбл из Копенгагена. Среди артистов — Valyom, Prinz Ezo и El Far."
+  },
+  "returntodisorder": {
+    "name": "Return To Disorder",
+    "bio": "Return To Disorder — гамбургский лейбл, основанный Helena Hauff. Среди артистов — сама Hauff, Children Of Leir, Morah и Umwelt."
+  },
+  "druck": {
+    "name": "Druck",
+    "bio": "Druck — немецкий лейбл DJ Scot Project и Kan Cold (Kai Winter, участник Hennes & Cold и Derb). Среди артистов — Rapha, Kan Cold и Thomas Rubin."
+  },
+  "mentaldisorder": {
+    "name": "Mental Disorder",
+    "bio": "Mental Disorder — испанский техно-лейбл Reeko. Среди артистов — сам Reeko, Exium и Oscar Mulero."
+  },
+  "bassiani": {
+    "name": "Bassiani",
+    "bio": "Bassiani — лейбл одноимённого клуба в Тбилиси. Среди артистов — Héctor Oaks, HVL, Tripeo и Dadub."
+  },
+  "euromantic": {
+    "name": "Euromantic",
+    "bio": "Euromantic — техно-лейбл и студия из Копенгагена, которыми руководит дуэт Funeral Future (Alexander Salomonsen и Adam Askov)."
+  },
+  "potency": {
+    "name": "Potency",
+    "bio": "Potency — лейбл, которым руководит Cromby. Среди артистов — сам Cromby, Trax Unit и Retromigration."
+  },
+  "honestjons": {
+    "name": "Honest Jons",
+    "bio": "Honest Jon's — музыкальный магазин, который в 1974 году основали Jon Clare и Dave Ryner; лейбл Honest Jon's Records в 2001 году запустили Mark Ainley и Alan Scholefield вместе с Damon Albarn."
+  },
+  "breaknewsoil": {
+    "name": "Break New Soil",
+    "bio": "Break New Soil — немецкий техно-лейбл, основанный Gregor Tresher. Среди артистов — сам Tresher, Ilario Alicante и Karotte."
+  },
+  "smilax": {
+    "name": "Smilax",
+    "bio": "Smilax (Smilax Publishing) — итальянская музыкальная компания, которую в 2005 году основал Alberto Margheriti."
+  },
+  "zodiakcommune": {
+    "name": "Zodiak Commune",
+    "bio": "Zodiak Commune — нидерландский лейбл acid techno, acid house и electro, основанный в 1998 году; им руководит Marc Pulles (DJ Zodiak). Одноимённая организация вечеринок возникла в 1993 году и с 2003-го существует отдельно от лейбла."
+  },
+  "wemerecords": {
+    "name": "WeMe Records",
+    "bio": "WeMe Records (WéMè Records) — подразделение лейбла MeWe Le Disque. Среди артистов — DJ Stingray, Ceephax, The Caretaker и Global Goon."
+  },
+  "formaycontenido": {
+    "name": "Forma Y Contenido",
+    "bio": "Forma Y Contenido — лейбл из Монтевидео, основанный Santiago Uribe. Среди артистов — сам Uribe и Molen."
+  },
+  "enfantterrible": {
+    "name": "Enfant Terrible",
+    "bio": "Enfant Terrible — нидерландская независимая площадка, основанная в 2004 году. В фокусе — DIY-электроника и экспериментальная поп-музыка, в том числе electro-wave, (post-)techno и эмбиент."
+  },
+  "genesa": {
+    "name": "Genesa",
+    "bio": "Genesa (Genesa Records) — лейбл из Крагуеваца (Сербия), которым владеет Nikola Grebovic, известный как Scalameriya; в программе — techno, IDM, psy trance и minimal. Среди артистов — сам Scalameriya, RE_P и Ducerey Ada Nexino."
+  },
+  "monument": {
+    "name": "Monument",
+    "bio": "Monument — лейбл и одноимённый фестиваль из Осло, также известный как MNMT. Среди артистов — Sciahri, D-Leria, Atomic Moog и Polygonia."
+  },
+  "unterwegs": {
+    "name": "Unterwegs",
+    "bio": "Unterwegs — берлинский техно-лейбл, которым владеют Decka и The Lady Machine. Среди артистов — Decka, The Lady Machine и Anika Kunst."
+  },
+  "seekers": {
+    "name": "seekers",
+    "bio": "seekers — лейбл электронной музыки из Германии. Среди артистов — Seekers, AC$ и Cosmic JD."
+  },
+  "transition": {
+    "name": "Transition",
+    "bio": "Transition — независимый лейбл, связанный с Лондоном и Мельбурном (Наарм). Среди артистов — Sera J, The Chronics и Blame The Mono."
+  },
+  "proletarijat": {
+    "name": "Proletarijat",
+    "bio": "Proletarijat (Пролетаријат) — техно-лейбл из Швеции, который в 2016 году основал Sev Dah как площадку для собственных проектов, с отсылкой к югославскому движению сопротивления."
+  },
+  "ad93": {
+    "name": "AD 93",
+    "bio": "AD 93 — лондонский лейбл, которым руководит Nic Tasker; раньше он назывался Whities. Среди артистов — Moin, Vivian Koch, Biosphere и Anunaku."
+  },
+  "bango": {
+    "name": "Bango",
+    "bio": "Bango — нидерландский tribal-house лейбл из Зутермера, основанный BPM Dance. Среди артистов — Mac Zimms (Willem Faber) и Silvio Ecomo."
+  },
+  "hotmix": {
+    "name": "Hotmix",
+    "bio": "Hotmix (HotMix Records) — лейбл Simoncino. Среди артистов — Gene Hunt, Marcello Napoletano и Steve Summers."
+  },
+  "ldi": {
+    "name": "LDI",
+    "bio": "LDI (LDI Records) — нидерландский лейбл мрачного и атмосферного электро; название расшифровывается как Lloyd's Dark Imperium. Среди артистов — Franck Kartell и T/Error."
+  },
+  "recordedthings": {
+    "name": "Recorded Things",
+    "bio": "Recorded Things — лейбл жёсткого и гипнотического техно из Лейпцига, которым руководят Oliver Rosemann и Sebastian Rothermel. Среди артистов — Oliver Rosemann, Alexander Kowalski и Alexander Johansson."
+  },
+  "medical": {
+    "name": "Medical",
+    "bio": "Medical Records — сиэтлский лейбл, основанный в 2010 году. Сначала он занимался переизданиями классики конца 1970-х и начала 1980-х: synth-pop, minimal synth, cosmic и italo disco, а также шугейз и dream pop 1990-х; техно и EBM выходят на саблейбле Transfusions. Среди артистов — Alexander Robotnick, Deutsche Wertarbeit, Der Plan и Seefeel."
+  },
+  "projekts": {
+    "name": "Projekts",
+    "bio": "Projekts — сестринский лейбл Clergy. Среди артистов — Stef Mendesidis, Phara и Cleric."
+  },
+  "candymountain": {
+    "name": "Candy Mountain",
+    "bio": "Candy Mountain — лейбл электронной музыки, которым руководит Steffi. Среди артистов — сама Steffi, Tracing Xircles и dBridge."
+  },
+  "destefster": {
+    "name": "Destefster",
+    "bio": "Destefster — лейбл, которым руководит Steffi."
+  },
+  "kanzleramt": {
+    "name": "Kanzleramt",
+    "bio": "Kanzleramt — лейбл, который в январе 1994 года основали Bernhard Laux и Heiko Laux. Среди артистов — Heiko Laux, Christian Morgenstern и Sammy Dee."
+  },
+  "swob": {
+    "name": "SWOB",
+    "bio": "SWOB — саблейбл Acid Test Records, который основали Stefan Wust и Oliver Bristow."
+  },
+  "valence": {
+    "name": "Valence",
+    "bio": "Valence — американский техно-лейбл, основанный Ambivalent. Среди артистов — сам Ambivalent, Taylor Deupree и goldFFinch."
+  },
+  "electricdeluxe": {
+    "name": "Electric Deluxe",
+    "bio": "Electric Deluxe — лейбл, основанный Speedy J. Среди артистов — сам Speedy J, Terence Fixmer и Tommy Four Seven."
+  },
+  "planeterouge": {
+    "name": "Planete Rouge",
+    "bio": "Planete Rouge (Planete Rouge Records) — французский лейбл из Лилля, основанный Terence Fixmer. Среди артистов — сам Fixmer, The Hacker и Christopher Kah."
+  },
+  "stutzpunkt": {
+    "name": "Stutzpunkt",
+    "bio": "Stützpunkt (в каталоге — Stutzpunkt) — берлинский лейбл. Среди артистов — Staim, Isaiah и DJ SWISHERMAN."
+  },
+  "intangible": {
+    "name": "Intangible",
+    "bio": "Intangible (Intangible Records & Soundworks) — детройтский лейбл Terrence Parker. Среди артистов — сам Parker и Seven Grand Housing Authority."
+  },
+  "absurdrecordingsacidtest": {
+    "name": "Absurd Recordings / Acid Test",
+    "bio": "Acid Test (в каталоге — Absurd Recordings / Acid Test) — лейбл хауса и техно, основанный Oliver Bristow; он связан с Берлином и Лос-Анджелесом. Среди артистов — Tin Man, Recondite и Donato Dozzy."
+  },
+  "magnetronmusic": {
+    "name": "Magnetron Music",
+    "bio": "Magnetron Music — амстердамский лейбл электронной музыки."
+  },
+  "partisan": {
+    "name": "Partisan",
+    "bio": "Partisan — лейбл электронной музыки, связанный с Лондоном и Берлином; его основала и курирует Anthea Nzekwu (Anthea). Среди артистов — Oshana, Fern и Giammarco Orsini."
+  },
+  "ultramajic": {
+    "name": "Ultramajic",
+    "bio": "Ultramajic — лейбл, который в 2012 году основали Jimmy Edgar и Pilar Zeta; в 2020 году он перешёл в New Reality Now. Среди артистов — Jimmy Edgar и Danny Daze."
+  },
+  "thirdear": {
+    "name": "Third Ear",
+    "bio": "Third Ear (Third Ear Recordings) — лондонский лейбл, основанный Guy McCreery. Среди артистов — Malik Alston, Mike 'Agent X' Clark и Kelli Hand."
+  },
+  "oecus": {
+    "name": "Oecus",
+    "bio": "Oecus — берлинский техно-лейбл. Среди артистов — USAW, Monovsn и Uväll."
+  },
+  "nugnet": {
+    "name": "Nug-Net",
+    "bio": "Nug-Net — саблейбл Limousine Dream: на нём выходит музыка студентов, прошедших продакшн-курс Nug-Net."
+  },
+  "trax": {
+    "name": "TRAX",
+    "bio": "Trax (Trax Records) — чикагский лейбл хауса, основанный в начале 1980-х Larry Sherman, Screamin' Rachael, Jesse Saunders и Vince Lawrence. Здесь выходили Acid Tracks проекта Phuture и Move Your Body — Marshall Jefferson; среди артистов — Mr. Fingers, Adonis и Frankie Knuckles."
+  },
+  "exxrave": {
+    "name": "EXXRAVE",
+    "bio": "EXXRAVE — лейбл глубокой электронной музыки. Среди артистов — The Twell и Asygen."
+  },
+  "foxtrax": {
+    "name": "Fox Trax",
+    "bio": "Fox Trax — московский лейбл техно и хауса, основанный в 2013 году; им руководит DJ Cross, известный как SickDisco."
+  },
+  "30dcloseencounters": {
+    "name": "30D Close Encounters",
+    "bio": "30D Close Encounters — саблейбл 30D Records: на нём выходят четырёхтрековые EP разных продюсеров под одним музыкальным концептом."
+  },
+  "amenthiarecordings": {
+    "name": "Amenthia Recordings",
+    "bio": "Amenthia (amenthia recordings) — независимый лейбл из Базеля, которым руководят Garçon и Agonis. Среди артистов — Agonis, Healing Force Project и Konduku."
+  },
+  "glitch": {
+    "name": "Glitch",
+    "bio": "GLITCH — техно-фестиваль на Мальте; к десятилетию вышел сборник Glitch 10 Year."
+  },
+  "bluehour": {
+    "name": "Blue Hour",
+    "bio": "Blue Hour — техно-лейбл, который в 2013 году основал британский продюсер Blue Hour, известный также как Luke Standing."
+  },
+  "topikaprecords": {
+    "name": "To Pikap Records",
+    "bio": "To Pikap (To Pikap Records) — независимый лейбл из Салоник; издания выходят на виниле, кассетах и в цифре. Среди артистов — Pera Sta Ori, Totsouko и Sakis Papadimitriou."
+  },
+  "submerge": {
+    "name": "Submerge",
+    "bio": "Submerge — детройтская компания, которую в 1992 году основали Mad Mike Banks и Christa Robinson: это магазин, производство и дистрибуция лейблов вроде Underground Resistance, KMS, Fragile Records и Red Planet."
+  },
+  "lunarecords": {
+    "name": "Lunarecords",
+    "bio": "LUNARECORDS (в каталоге — Lunarecords) — берлинский лейбл, основанный в 2024 году Lyric. Среди артистов — Lyric, Geistfrei и Obscur."
+  },
+  "possession": {
+    "name": "Possession",
+    "bio": "Possession — лейбл одноимённого техно-коллектива из Парижа. Среди артистов — ØTTA, Blame The Mono, Sara Landry и Louisahhh."
+  },
+  "a7a": {
+    "name": "A7A",
+    "bio": "A7A — лейбл, которым владеет и руководит Lawrence Lee. Среди артистов — сам Lawrence Lee, Viikatory и Manao."
+  },
+  "stelus": {
+    "name": "Stelus",
+    "bio": "Stelus — лейбл, основанный Ari Atai совместно с Voorman. Среди артистов — Voorman и Connor Wall."
+  },
+  "mca": {
+    "name": "MCA",
+    "bio": "MCA (MCA Records) — международный лейбл, основанный в 1967 году; в Северной Америке он работает с декабря 1972-го."
+  },
+  "killekill": {
+    "name": "Killekill",
+    "bio": "Killekill — берлинский лейбл и компания, которая с июня 2008 года выпускает музыку и проводит вечеринки. Среди артистов — Alex Cortex, Cassegrain, Tin Man, Bill Youngman и Neil Landstrumm."
+  },
+  "muller": {
+    "name": "Muller",
+    "bio": "Müller Records (в каталоге — Muller) — берлинский лейбл техно и электро, которым руководит Frank Müller. Среди артистов — Beroshima, Sono Tab и Toktok."
+  },
+  "assemblemusic": {
+    "name": "Assemble Music",
+    "bio": "Assemble Music — лиссабонский виниловый лейбл, которым с 2011 года руководит João Maria, известный как Solid Funk."
+  },
+  "ur": {
+    "name": "Underground Resistance",
+    "bio": "Underground Resistance — детройтский техно-коллектив и лейбл, выпускающий музыку с 1990 года. С 2005 года лейблом управляет Cornelius Harris, дистрибуция идёт через Submerge. Среди проектов — сам UR, X-101, X-102 и DJ Rolando."
+  },
+  "savyrecords": {
+    "name": "Savy",
+    "bio": "Sävy (в каталоге — Savy) — лейбл финской диджея и продюсера IDA, которая живёт в Шотландии. В программе — техно, электро, брейки и другая танцевальная музыка; среди артистов — сама IDA, Ryan James Ford и Farron."
+  },
+  "warprecords": {
+    "name": "WARP",
+    "bio": "Warp (Warp Records) — британский лейбл электронной музыки, основанный Steve Beckett, Rob Mitchell и Robert Gordon. Долгое время он работал в Шеффилде, затем переехал в Лондон. Среди артистов — Aphex Twin, Autechre, Nightmares On Wax и Speedy J."
+  },
+  "spaziomagnetico": {
+    "name": "Spazio Magnetco",
+    "bio": "Spazio Magnetico (в каталоге — Spazio Magnetco) — независимый техно-лейбл и подкаст-серия D/n; в программе — techno, dub, ambient и IDM. Среди артистов — сам D/n, WHM и Clarence Rise."
+  },
+  "cocoonrecordings": {
+    "name": "Cocoon",
+    "bio": "Cocoon (Cocoon Recordings) — немецкий техно-лейбл, основанный Sven Väth. Среди артистов — сам Väth, Steve Bug, Frank Lorber и Ricardo Villalobos."
+  },
+  "textrecords": {
+    "name": "Text",
+    "bio": "Text (Text Records) — лейбл Kieran Hebden, известного как Four Tet. Среди артистов — сам Four Tet, Fridge, One Little Plane и совместные работы с Burial."
+  },
+  "ndyukarhythms": {
+    "name": "Ndyuka",
+    "bio": "Ndyūkå Rhythms (в каталоге — Ndyuka) — амстердамский лейбл, основанный Marrøn. Среди артистов — Line-o и Toru Ikemoto."
+  },
+  "medicalrecordsllc": {
+    "name": "Medical Records",
+    "bio": "Medical Records — сиэтлский лейбл, основанный в 2010 году. Сначала он занимался переизданиями классики конца 1970-х и начала 1980-х: synth-pop, minimal synth, cosmic и italo disco, а также шугейз и dream pop 1990-х; техно и EBM выходят на саблейбле Transfusions. Среди артистов — Alexander Robotnick, Deutsche Wertarbeit, Der Plan и Seefeel."
+  },
+  "honestjonsrecords": {
+    "name": "Honest Jons",
+    "bio": "Honest Jon's — музыкальный магазин, который в 1974 году основали Jon Clare и Dave Ryner; лейбл Honest Jon's Records в 2001 году запустили Mark Ainley и Alan Scholefield вместе с Damon Albarn."
+  },
+  "keyvinyl": {
+    "name": "KEY",
+    "bio": "Key Vinyl — техно-лейбл итальянского диджея и продюсера Freddy K, который занимается техно с 1990-х и связан с берлинской сценой. Среди артистов — Ausgang, Conrad Van Orton, Ctrls и Eduardo De La Calle."
+  },
+  "acidtest": {
+    "name": "Absurd Recordings / Acid Test",
+    "bio": "Acid Test (в каталоге — Absurd Recordings / Acid Test) — лейбл хауса и техно, основанный Oliver Bristow; он связан с Берлином и Лос-Анджелесом. Среди артистов — Tin Man, Recondite и Donato Dozzy."
+  },
+  "traxrecords": {
+    "name": "TRAX",
+    "bio": "Trax (Trax Records) — чикагский лейбл хауса, основанный в начале 1980-х Larry Sherman, Screamin' Rachael, Jesse Saunders и Vince Lawrence. Здесь выходили Acid Tracks проекта Phuture и Move Your Body — Marshall Jefferson; среди артистов — Mr. Fingers, Adonis и Frankie Knuckles."
+  }
+}
