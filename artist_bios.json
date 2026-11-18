@@ -2738,5 +2738,173 @@
   "жуткиилазер": {
     "name": "Жуткий Лазер",
     "bio": "Жуткий Лазер — проект петербургского диджея и продюсера Олега Азелицкого, также известного как DJ Slon; основан в 1995 году. В 1997–1998 годах в нём участвовал Алексей Гапоненко, затем это стал сольный проект. Альбом «Album №1» на Gost Zvuk собрал записи 1995–2005 годов."
+  },
+  "alignment": {
+    "name": "Alignment",
+    "bio": "Alignment — итальянский техно-продюсер. С 2020 года выпускается на KNTXT Шарлотты де Витт: EP Time, Nothingness и Power. Пишет мощное пиковое техно с транс-стэбами."
+  },
+  "anthonyparasole": {
+    "name": "Anthony Parasole",
+    "bio": "Anthony Parasole — техно-диджей и продюсер из Нью-Йорка. В 2012 году основал лейбл The Corner; вместе с Levon Vincent также выпускал музыку на Deconstruct. Дебютный альбом Infrared Vision вышел на Dekmantel UFO в 2017 году."
+  },
+  "ardb": {
+    "name": "Ardb",
+    "bio": "Ardb — продюсер минимал-хауса, выпускается на лейбле Atipic. Пластинки выходят только на виниле."
+  },
+  "benpest": {
+    "name": "Ben Pest",
+    "bio": "Ben Pest — live-артист и продюсер из Бристоля. Играет электро и эсид-техно, выступал в Tresor и на Гластонбери. Выпускался на Mechatronica, Cultivated Electronics, I Love Acid и Co-Accused."
+  },
+  "brizman": {
+    "name": "Brizman",
+    "bio": "Brizman — продюсер минимал-хауса, выпускается на лейбле Silvi. Пишет катящийся, тёплый грув для танцпола."
+  },
+  "claudevonstroke": {
+    "name": "Claude VonStroke",
+    "bio": "Claude VonStroke — американский продюсер Barclay Crenshaw, вырос в Детройте. Основал в Сан-Франциско лейбл Dirtybird. Серия пластинок Wrong Number вышла на его лейбле Wrong Number Records."
+  },
+  "deluka": {
+    "name": "Deluka",
+    "bio": "Deluka — итальянский диджей и продюсер Francesco De Luca, живёт в Берлине. Был резидентом вечеринки Same Bitches, основал лейбл и магазин пластинок No Signal Records."
+  },
+  "direkt": {
+    "name": "Direkt",
+    "bio": "Direkt — продюсер минимал-хауса. Трек Hubble вышел на виниловом сборнике The Bridge лейбла Spas Records."
+  },
+  "vincentiulian": {
+    "name": "Vincentiulian",
+    "bio": "Vincentiulian — продюсер минимал-хауса. Трек BrokenH вышел на виниловом сборнике The Bridge лейбла Spas Records."
+  },
+  "alvaromedina": {
+    "name": "Alvaro Medina",
+    "bio": "Alvaro Medina (Álvaro Medina) — продюсер минимал-хауса. Трек St1 вышел на виниловом сборнике The Bridge лейбла Spas Records."
+  },
+  "pinto": {
+    "name": "Pinto",
+    "bio": "Pinto — продюсер минимал-хауса. Трек Watercolors вышел на виниловом сборнике The Bridge лейбла Spas Records."
+  },
+  "dopplereffekt": {
+    "name": "Dopplereffekt",
+    "bio": "Dopplereffekt — детройтский электро-проект Gerald Donald (Rudolf Klorzeiger) и To-Nhan, связанный с кругом Drexciya. Холодное научное электро. В 2025 году впервые выпустился на Tresor."
+  },
+  "easyb": {
+    "name": "Easy B",
+    "bio": "Easy B (DJ Easy B) — выпускает пластинки сам: ограниченный тираж, конверт с ручным штампом. Брейкбит и рейв-звук."
+  },
+  "flashbaxx": {
+    "name": "Flashbaxx",
+    "bio": "Flashbaxx — продюсер диско-хауса, выпускается на лейбле Groovers Traxx. Классический хаус с соул-текстурами."
+  },
+  "franlf": {
+    "name": "Fran LF",
+    "bio": "Fran LF — техно-продюсер с Сицилии, живёт в Амстердаме. Выпускается на TECHNO Records — лейбле Nastia."
+  },
+  "joshwink": {
+    "name": "Josh Wink",
+    "bio": "Josh Wink — диджей и продюсер из Филадельфии. Автор эсид-хита Higher State Of Consciousness (1995), основатель лейбла Ovum Recordings."
+  },
+  "djesp": {
+    "name": "DJ ESP",
+    "bio": "DJ ESP — псевдоним Woody McBride, продюсера из Миннеаполиса и основателя лейбла Communique Records. Классика американского эсид-техно 90-х."
+  },
+  "ms": {
+    "name": "M.S.",
+    "bio": "M.S. — псевдоним Matthias Schildger, совладельца лейбла Houseworx. Raw House EP — его первый сольный релиз."
+  },
+  "marcfeldmann": {
+    "name": "Marc Feldmann",
+    "bio": "Marc Feldmann — техно-продюсер. Вместе с Dominik André выпустил дебютный EP дуэта White Series #4 на Subject To Restrictions Discs."
+  },
+  "matrixxman": {
+    "name": "Matrixxman",
+    "bio": "Matrixxman — американский техно-продюсер Charles McCloud Duff из Сан-Франциско. Регулярно выпускается на Dekmantel, в том числе серию из трёх EP Sector."
+  },
+  "noumen": {
+    "name": "Noumen",
+    "bio": "Noumen — проект украинского продюсера Andriy Vezdenko из Львова. Выпускается на шеффилдском Central Processing Unit: среди релизов двойники Obscurium (2019) и Altum (2025)."
+  },
+  "nuira": {
+    "name": "Nuira",
+    "bio": "Nuira — дуэт итальянских продюсеров Giovanni Petruzzelli и Michele Lamacchia. Олдскульный драм-н-бейс и брейкбит, выпускаются на System Error."
+  },
+  "olofdreijer": {
+    "name": "Olof Dreijer",
+    "bio": "Olof Dreijer — шведский продюсер, сооснователь группы The Knife. Также выступает как Oni Ayhun, выпускался на Hessle Audio, AD 93 и Dekmantel."
+  },
+  "quazar": {
+    "name": "Quazar",
+    "bio": "Quazar — амстердамский проект продюсера Gert van Veen. Дебютный 12\" The Seven Stars вышел в 1990 году на Go Bang! и стал классикой раннего рейва; в 2024 году его переиздал лейбл Superstition."
+  },
+  "robins": {
+    "name": "Robin S",
+    "bio": "Robin S — американская певица Robin Stone. Её Show Me Love в ремиксе StoneBridge стал одним из главных хаус-гимнов 90-х."
+  },
+  "sit": {
+    "name": "SIT",
+    "bio": "SIT — продюсер хауса и минимала, выпускается на лейбле Amphia. Звук с оглядкой на ранние техно и хаус."
+  },
+  "tcstudio": {
+    "name": "TC Studio",
+    "bio": "TC Studio — студийный проект; на EP Fish Police (Metereze) треки Tulbure, Cher и Bonjour. Минимал-хаус."
+  },
+  "timemodem": {
+    "name": "Time Modem",
+    "bio": "Time Modem — немецкий проект братьев Joachim и Ulrich Wilhelm, основан около 1989–1990 годов. Der Mantel Der Nacht вышел в 1991 году на BOY Records и сочетает техно с нью-битом."
+  },
+  "ur": {
+    "name": "UR",
+    "bio": "UR (Underground Resistance) — детройтский техно-коллектив, который основали Mike Banks и Jeff Mills около 1990 года. Электро и техно с политическим посланием."
+  },
+  "voiski": {
+    "name": "Voiski",
+    "bio": "Voiski — парижский техно-продюсер. Выпускался на техно-сублейбле Dekmantel UFO, потом в основном каталоге Dekmantel."
+  },
+  "randomer": {
+    "name": "Randomer",
+    "bio": "Randomer — британский продюсер экспериментального техно. Выпускался на Dekmantel UFO и в основной серии Dekmantel."
+  },
+  "tolouselowtrax": {
+    "name": "Tolouse Low Trax",
+    "bio": "Tolouse Low Trax — немецкий музыкант Detlef Weinrich, связанный с дюссельдорфским клубом Salon des Amateurs. Гипнотичная медленная электроника."
+  },
+  "gilbr": {
+    "name": "Gilb'R",
+    "bio": "Gilb’R — французский продюсер и сооснователь лейбла Versatile Records, живёт в Амстердаме. Органичный перкуссионный грув."
+  },
+  "sviz": {
+    "name": "Sviz",
+    "bio": "Sviz — продюсер минимал-хауса. Трек 23Berlino с Henry Amadi вышел на сборнике Unexpected Activity EP лейбла Tancido."
+  },
+  "henryamadi": {
+    "name": "Henry Amadi",
+    "bio": "Henry Amadi — продюсер минимал-хауса. Трек 23Berlino со Sviz вышел на сборнике Unexpected Activity EP лейбла Tancido."
+  },
+  "actin": {
+    "name": "Actin",
+    "bio": "Actin — продюсер минимал-хауса. Трек Memories Unlocked вышел на сборнике Unexpected Activity EP лейбла Tancido."
+  },
+  "rds": {
+    "name": "RDS",
+    "bio": "RDS — продюсер минимал-хауса. Треки Energizer и Fertilizer вышли на сборнике Unexpected Activity EP лейбла Tancido."
+  },
+  "vladcaia": {
+    "name": "Vlad Caia",
+    "bio": "Vlad Caia — румынский продюсер минимал-хауса. Source Of Movement EP — второй релиз лейбла Synkroniq."
+  },
+  "xcoast": {
+    "name": "X-Coast",
+    "bio": "X-Coast — сербский продюсер, основатель лейбла Riviera Records. Смешивает транс, хаус и брейки, выпускался на Hot Haus, Lost Palms и Steel City Dance Discs."
+  },
+  "dominikandre": {
+    "name": "Dominik André",
+    "bio": "Dominik André — техно-продюсер. Вместе с Marc Feldmann выпустил дебютный EP дуэта White Series #4 на Subject To Restrictions Discs."
+  },
+  "juliensandre": {
+    "name": "Julien Sandre",
+    "bio": "Julien Sandre — французский диджей и продюсер. Его первый трек Satisfaction вышел на лейбле Dynamic у Solomun; позже он выпускался на Tsuba, Morris Audio и Hot Waves. Сольный Melancholia EP вышел на FA>IE (Fake Records) в 2019 году."
+  },
+  "nektaragu": {
+    "name": "Nektar Agu",
+    "bio": "Nektar Agu — продюсер минимал-хауса. В 2018 году на FA>IE (Fake Records) вышел его EP 1111: два оригинала, которые поддерживали S.A.M и Arapu, и ремиксы MFDP (Markus Fix и Dorian Paic) и Jorge Savoretti."
   }
 }

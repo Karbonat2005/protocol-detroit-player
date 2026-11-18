@@ -1246,5 +1246,113 @@
   "traxrecords": {
     "name": "TRAX",
     "bio": "Trax (Trax Records) — чикагский лейбл хауса, основанный в начале 1980-х Larry Sherman, Screamin' Rachael, Jesse Saunders и Vince Lawrence. Здесь выходили Acid Tracks проекта Phuture и Move Your Body — Marshall Jefferson; среди артистов — Mr. Fingers, Adonis и Frankie Knuckles."
+  },
+  "kntxt": {
+    "name": "KNTXT",
+    "bio": "KNTXT — бельгийский техно-лейбл и серия вечеринок диджея Charlotte de Witte. Мощное пиковое техно; здесь выходят сама Charlotte de Witte и Alignment."
+  },
+  "dekmantelufo": {
+    "name": "Dekmantel UFO",
+    "bio": "Dekmantel UFO — техно-сублейбл амстердамского Dekmantel для более жёсткого и экспериментального звука. Здесь выходили Anthony Parasole, Voiski, Randomer."
+  },
+  "atipic": {
+    "name": "Atipic",
+    "bio": "Atipic — виниловый лейбл из Бухареста. В 2016 году его основал румынский продюсер Priku (Adrian Niculae). Минимал, хаус и техно; пластинки выходят только на виниле."
+  },
+  "coaccusedrecords": {
+    "name": "Co-Accused Records",
+    "bio": "Co-Accused — лейбл и серия вечеринок из Глазго. Электро и техно; среди артистов — Ben Pest."
+  },
+  "silvi": {
+    "name": "Silvi",
+    "bio": "Silvi — лейбл минимал-хауса, только винил. Среди артистов — Brizman, Jay Tripwire (ремиксы)."
+  },
+  "wrongnumberrecords": {
+    "name": "Wrong Number Records",
+    "bio": "Wrong Number Records — лейбл американского продюсера Claude VonStroke (основателя Dirtybird) для серии пластинок Wrong Number."
+  },
+  "futuristicarchitecture": {
+    "name": "Futuristic Architecture",
+    "bio": "Futuristic Architecture — техно-ответвление берлинского лейбла System Error, запущено в 2024 году EP Deluka."
+  },
+  "systemerror": {
+    "name": "System Error",
+    "bio": "System Error — берлинский лейбл: техно, брейкбит, драм-н-бейс. Есть ответвление Futuristic Architecture."
+  },
+  "spasrecords": {
+    "name": "Spas Records",
+    "bio": "Spas Records — лейбл минимал-хауса, только винил, ограниченные тиражи без репрессов."
+  },
+  "ezb": {
+    "name": "EZB",
+    "bio": "EZB — самиздат-серия DJ Easy B: ограниченные тиражи с ручным штампом."
+  },
+  "grooverstraxx": {
+    "name": "Groovers Traxx",
+    "bio": "Groovers Traxx — лейбл диско-хауса и классического хауса. Среди артистов — Flashbaxx."
+  },
+  "technorecords": {
+    "name": "TECHNO Records",
+    "bio": "TECHNO Records — лейбл украинской диджейки Nastia. Техно для танцпола; выпускались Fran LF, Mark Broom, Steve Rachmad, Conrad Van Orton."
+  },
+  "headintheclouds": {
+    "name": "Head In The Clouds",
+    "bio": "Head In The Clouds — сублейбл американского Communique Records (Woody McBride). Сейчас переиздаёт классику 90-х."
+  },
+  "houseworx": {
+    "name": "Houseworx",
+    "bio": "Houseworx — хаус-лейбл, одним из владельцев которого является Matthias Schildger (M.S.). Сырой клубный хаус."
+  },
+  "subjecttorestrictionsdiscs": {
+    "name": "Subject To Restrictions Discs",
+    "bio": "Subject To Restrictions Discs — лейбл сдержанной клубной электроники. Серия White выходит white label с ручным штампом."
+  },
+  "centralprocessingunit": {
+    "name": "Central Processing Unit",
+    "bio": "Central Processing Unit — шеффилдский лейбл электроники и техноидного IDM. Среди артистов — украинский продюсер Noumen, у которого на CPU выходили двойники Obscurium и Altum."
+  },
+  "superstition": {
+    "name": "Superstition",
+    "bio": "Superstition — гамбургский лейбл 90-х, известный трансом и техно. В 2024 году переиздал классику Quazar The Seven Stars; оригинал 1990 года вышел на Go Bang!."
+  },
+  "champion": {
+    "name": "Champion",
+    "bio": "Champion Records — лондонский дэнс-лейбл, основан в 1985 году Mel Medalie. Издавал хаус-хиты, в том числе Robin S — Show Me Love."
+  },
+  "amphia": {
+    "name": "Amphia",
+    "bio": "Amphia — лейбл хауса и минимала. Звук с оглядкой на ранние техно и хаус; среди артистов — SIT."
+  },
+  "metereze": {
+    "name": "Metereze",
+    "bio": "Metereze — лейбл минимал-хауса, пластинки на 180-граммовом виниле, только винил."
+  },
+  "boyrecords": {
+    "name": "BOY Records",
+    "bio": "BOY Records — немецкий лейбл, который в 1988 году основал Michael Zosel. Издавал раннее техно и нью-бит; сейчас переиздаёт свой каталог начала 90-х."
+  },
+  "wagram": {
+    "name": "Wagram",
+    "bio": "Wagram — французский независимый лейбл и дистрибьютор из Парижа. Выпускает виниловые сборники, например серию Ibiza."
+  },
+  "tancido": {
+    "name": "Tancido",
+    "bio": "Tancido — лейбл минимал-хауса, только винил на 180 г."
+  },
+  "synkroniq": {
+    "name": "Synkroniq",
+    "bio": "Synkroniq — лейбл минимал-хауса, 180-граммовый винил. Второй релиз сделал румынский продюсер Vlad Caia."
+  },
+  "rivierarecords": {
+    "name": "Riviera Records",
+    "bio": "Riviera Records — лейбл сербского продюсера X-Coast, запущен в 2019 году EP Move. Смесь транса, хауса и брейков."
+  },
+  "faie": {
+    "name": "FA>IE",
+    "bio": "FA>IE (Fake Records) — хаус-лейбл, в каталоге Triple Vision указан как нидерландский. Виниловая серия FR: минимал и дип-хаус, часть тиражей — только винил и с ручным штампом. Среди релизов — Nektar Agu 1111 и Julien Sandre Melancholia EP."
+  },
+  "fakerecords": {
+    "name": "FA>IE",
+    "bio": "FA>IE (Fake Records) — хаус-лейбл, в каталоге Triple Vision указан как нидерландский. Виниловая серия FR: минимал и дип-хаус, часть тиражей — только винил и с ручным штампом. Среди релизов — Nektar Agu 1111 и Julien Sandre Melancholia EP."
   }
 }
