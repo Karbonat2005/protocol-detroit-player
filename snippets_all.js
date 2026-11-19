@@ -276,7 +276,8 @@ window.PD_SNIPPETS={"645486609553":["dj:348389",[["A1","State Of Mind"],["A2","M
   (function(){ var st = document.createElement('style'); st.textContent =
     '.pd-bio,.pd-lbio{margin-top:20px}' +
     '.pd-bio__h{font-size:11px;line-height:1.4;letter-spacing:.08em;text-transform:uppercase;color:#8c8c8c;font-weight:500;margin:0 0 6px}' +
-    '.pd-bio__p{margin:0 0 8px}.pd-bio__p:last-child{margin-bottom:0}';
+    '.pd-bio__p{margin:0 0 8px}.pd-bio__p:last-child{margin-bottom:0}' +
+    '.t-store__prod-popup .js-store-prod-all-charcs,.t-store__product-snippet .js-store-prod-all-charcs{display:none!important}';
     document.head.appendChild(st); })();
   function doBios(nameEl, scope){
     var links = nameEl.querySelectorAll('a.pd-al'), arts = [], seen = {};
