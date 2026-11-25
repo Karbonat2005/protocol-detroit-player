@@ -1366,5 +1366,13 @@
   "yorerecords": {
     "name": "Yore Records",
     "bio": "Yore Records — немецкий лейбл техно и хауса из Кёльна. Его основали Andy Vaz и Alessandro Vaccaro, первые пластинки вышли в 2007 году. Среди артистов — Terrence Dixon, Rick Wade и ReKaB."
+  },
+  "dazeraw": {
+    "name": "DAZE RAW Records",
+    "bio": "DAZE RAW Records — лейбл, первый релиз которого — EP B1980 «Neverland» (DZR001), вышедший 18 сентября 2026 года."
+  },
+  "dazerawrecords": {
+    "name": "DAZE RAW Records",
+    "bio": "DAZE RAW Records — лейбл, первый релиз которого — EP B1980 «Neverland» (DZR001), вышедший 18 сентября 2026 года."
   }
 }
